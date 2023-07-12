@@ -1,0 +1,4205 @@
+{
+    "displayText": "Welcome back after lunch, I hope you had a good lunch together. For this meeting the main agenda okay to discuss about the conceptual design meeting. Okay and the agenda will be the opening and that's the product manager or secretary that's me and the presentations from the Christine and Agnes and from Mister Ed. And finally in this meeting we have to decide and we are to take a decision on the remote control concept and the functional design So we have forty minutes, I think it's little bit low, but I hope we can finish it up so I'll handle to the functional team, to the Christine, okay, to discuss about the components concept. Okay. So if you could open the PowerPoint presentation. I'm number two. You're number two. Kay The next one. Components design, there we go. So can we put it in slide show mode? Yeah. Right here, is that one, yes please. Thank you. I'll take the mouse. So we were looking specifically at the following components, the case, the power supply, the means of communications with the television set. In instance we had talked about using some sort of speech recognition, no you don't actually I haven't have to have microphone in the device, but maybe you do have it a way it has to hear the speaker so it could be in the television set, could be in the device, but somewhere you have to put the microphone, and a way of making beeps or sounds so you can find it when. Mm-hmm. So the other thing that we So. Our method for going about this is we've looked at the historical record, what's worked, what hasn't and then we wanted to evaluate some new materials and we contacted manufacturing for their input because, course, we might come up and choose the material that then manufacturing didn't have the technologies or capabilities to offer us, so this is the approach that we took during our research. So for the case, we told we were making a specific assumption that it would be curved in design. Course, I wanted it to be expandable and shrinkable, but that doesn't seem to be one of the non-option we can really seriously explore, so then we were thinking about rubber, but unfortunately that's been eliminated because of the heat factor and there might be some problems with how it's goes with the board. And then plastic also has this problem of melting and it gets brittle after a while, so we still had titanium and wood available, but unfortunately titanium's also been eliminated the people in manufacturing said that you couldn't make curved cases out of titanium, although how Apple did it with. So, this is our finding. At least it's environmentally friendly. And as she said, it's an environmentally friendly material, so we're currently proposing, we'll get to all my personal preferences in just a second. So then there's this other matter of the chips and we could use a simple design on the board, but these simple chips, but you don't get very much intelligence with this simple one. And then there was the regular which I regret that I've forgotten exactly why I'm eliminating that one. The other option was this advanced chip on print, and we liked we found that it includes this infrared sender, which 'member that was an important component of finding the right chip. And manufacturing has told us that they've recently developed a sensor and a speaker that would be integrated into this advanced chip on print, so we now jumping right to our personal preferences I'd really think we should, use some of some really exotic woods, like you guys come from tropical countries so you can kinda think of some trees and some nice woods. I think that people might really want to design their own cases, see, they could do sort of this three-dimensional design on the internet, and then they could submit their orders, kinda like you submit a custom car order, and you can choose the colour and the size of the wheels and the colours of the leather and things like that, and then I think we should go with the solar cells as well as the microphone and speaker on the advanced chip. So this is the findings of our research and my recommendations for the new remote control would be to have it be made out of wood. Do you have any problems with that? Can you go back one slide? I'm not sure, I know, let's see. Thank you. Let's go back up here. Yeah. Yes, question, what's mean exactly, advanced chip on print? What's the meaning of that? I think it's a multiple chip design and it's maybe printed on to the circuit board. Mm-hmm. I could find out more about that before the next meeting. Is it on a micro-processor based or Okay, that would be great, so if you find out from the technology background, okay, so that would be good. Don't but I'll find out more at our next meeting. Sounds good. Why was the plastic eliminated as a possible material? Because it gets brittle, cracks We expect these remote controls to be around for several hundred years. Mm-hmm. So. Good Good expression. Which Although I think with wood though you'd run into the same types of problems, it chips, if you drop it, I'm not I think if you use really good quality wood, then it might work, but you can't just use exactly. Wow, good expression. After us. I don't know, speak for yourself, I'm planning to be around for a while. So you're not convinced about the wood, yes. Actually, I'm ready to sell it. You're what? I'm ready to sell it. You think? No no no no, the the only the only wood you can use are the ones that are extremely hard wood, but there are some very pretty woods out there. And you could you could sell oils with it, to take care of it. I'm glad you Okay, good. That's actually very innovative idea. Having a hard time keeping control over my face. It's actually a very innovative different idea that you can choose your colour of wood, your type of wood. Mm-hmm. The stain. Each person is gonna have their own personalised, individualised speech recognition remote control in wood, that's not on the market. Mm. So it's looks good the design the functional design what about you? In terms of comments on this or in terms of my own. Yes, in yes, in terms of comments first Okay then, let's move to Agnes. In turns of wow. She works in the cubicle next to me so she was already a little bit prepared for this. Luckily Ed was not. Wood? I think we can get the quality materials then it shouldn't influence the design principles too much, which you'll see with my presentation. One thing we'd have to check though is whether how quickly the novelty wears off of having for example. Mm-hmm. You wouldn't wanna have to have splinters in your hand while you're using your It's really good if your dog gets ahold of it, they can use it for teething. So, have to see how kid-friendly it is and all that, but Sure. They do that anyway with the rubber and plastic, so, and chew 'em up. They do it with other materials as well. And chew 'em up. I'm sorry. You're You are in participant three. One point three. This one? I think so. That's the one. So, it's a very short presentation, 'cause I'm actually gonna draw you the layout on the board so if you want to just go straight to the second slide, which basically shows, sort of I took the ideas that we were talking about last time and tried to put that into the remote control so the things that you can actually see on it are off switch, volume and channel control, the menu access button, ergonomic shape, which I completely agree with Christine's idea to have it sort of molded, so it's slightly more ergonomic and comfortable to hold than the standard very straight remote controls. And actually the other thing with the wood if we take your customising idea, is that people can actually do sort of quasi-measurements on their hand size, so if someone has larger hands, you have a wider remote control. Right, my hand is different size than yours for example. So, that's actually a really good idea for customisability. One thing I thought might be kind of interesting is to put a flip screen on it, just like you have on flip phones, so that you don't have this case where someone sits on the remote control or accidentally puts their hand on it, especially if you have little kids around, they're not pressing the buttons while you're trying to watch a TV show and accidentally change the channel or turn it off. Mm-hmm. And also you had issues with the batteries running out, so I thought maybe we could put a little battery life-light on it that kind of goes dimmer and dimmer and dimmer as your battery starts to die. And in terms of invisible features, audio and tactile feedback on button presses and, like you said, speech recognition. Mm-hmm. So, in terms of what this thing would actually look like Despite working in interface design, I'm not the greatest artist in the world, so you'll have to forgive me. You'd have something like this with an on-off switch fairly big, sort of in the corner and by itself, so you don't accidentally turn your TV off while you're trying to manoeuvre other buttons. And then you have sort of one of those toggle displays for, oops, channels and volume, sort of for surfing channels and then volume, so the volume would be the up and down, 'cause volume goes up and down and then channels left to right. And then here you'd have your sort of standard, telephonish number pad. And then on one side you would have an access to the menu on your TV and on the other side a way to turn off the voice control. So that if the user doesn't want to use their voice, they can just turn it off and you don't have the remote control accidentally changing things on you. Mm. Mm-hmm. So again you can have a little LCD light somewhere, the flip thing and Have I forgotten anything? I don't think so. So, as you can see, it's a very very simple design, which is one of the things I really wanted to keep, is keep it simple, not have too many buttons, not have too many functionalities thrown into it. No. Think the design can pretty much carry over to everything, although with the wood the flip screen might have to do something slightly different. A hinge. Be like a copper hinge or. Yeah. But you also have to start watching out for the weight, 'cause depending on how much the the flip screen will add to the weight of the remote control, you don't want it to start getting too heavy. Mm-hmm. Mm. But that's the general layout with the general functionalities, if we come up with something else. As you can see, there's still lots of space on the actual remote control and if you do it customisably, you can make this thing fairly small or fairly large, depending on personal preferences. Mm-hmm, mm-hmm. Hmm. So, that's pretty much all I had to say, everything else in terms of design issues. The centering of the key pad and the channel is just depending on where your thumb is and you tend to use the volume control and the browsing more than the actual number pad, so that would be sort of in direct line of where your thumb goes when you are holding the remote control, the number pad a little bit lower 'cause it's used less frequently. Mm-hmm. Mm. Mm-hmm. So once we decide exactly what we want, then we can figure out the exact positioning, but more or less I think it should go along those lines. What's the comments or Okay Mm-hmm. Simple design. It's what consumers want. It's almost like, Houston, we have a product here. Problem is obviously gonna be cost. Mm-hmm. Okay, I also have a very simple presentation, because for the marketing point you have to see what the consumers want. Yeah. Yeah. I also have copied a different type of remote. If you can find me, where I'm at. There should only be one in here. Trend watch. Sure. It's being modified. They're stealing our product. We've been giving simple questionnaires in different areas because obviously we have to see what the consumers are looking for today, 'cause trends change very very quickly. In six months maybe this idea is already gone out the window, so it's gonna be a question how fast we can act. They already erased the rest of mine. No, go to findings. No, no. No no, no no. Cause I had another comment there. The market trend. This is what we know from the questionnaires from the all the surveys we've done, fancy and feel-good, that's what we've been looking for, something that feels good in the hand, that's easy to use. Looking for next generation of innovation, because all the remotes out there now, they're all very similar, they all do the same thing, we have to have something completely different. Okay? Easy to use, has become another major interest that with the whiteboard we can see that it's a remote that's easy to use. And I think this is another thing that's interesting is the consumers actually willing to pay the price for exciting technology. So even if we have a product that may be more expensive, if it comes out right, if they look it looks and feels good and has technology. The second two, you can see the last one is a very easy simple design. The second one, there is about forty-five thousand different buttons on it, which makes it very hard to use. The first one, I see that they put in a display. Now there's something else with the little flip-up, now we're adding all kinds of things in, but with the little flip-up, if you have a little display on the flip-up that when you close it everything is locked. Mm-hmm. Yeah. Maybe the display also makes it easier to use, because sometimes when you're looking for buttons, maybe if you see a display Okay Because I've seen mostly the standard ones. Context-sensitive instructions, depending on what the what mode the TV or the DVD or something else is in. Right. Especially you might need something like that for training the speech recognition and. Now you have it now you have one with the very simple also. The idea is simple, but with a display, so you can see what you're doing. Mm-hmm. So maybe if we can incorporate the easiness of use, trendy, fancy, feels good, with a display, wood, designer wood, designer colours, we might've Mm-hmm. Mm-hmm. Maybe what you could do is when somebody orders the device you could send them some sort of a foam rubber ball, and then they would squeeze it, and it would take the shape of their hand. So it's really molded to your specific But for that you'd also have to do sort of an average across families and things like that unless everyone has their own personal remote. And then you would know what the geometry of their hands would be and Yes you'd know what kind of wood to get. How hard they squeeze? Resistance right. That's right, that's right, you wouldn't wanna go too far down that. That actually would increase the revenues we could expect. The sales. The. I hope so. No, but incorporating the three obviously it'd be something totally new on the market, totally different from Although, what it was it it was Nokia that came out with this changeable colours. Yeah. Already the customisability is a really good sort of new gimmick. Mm-hmm. Right, you take it apart, and take it off and put on another face and then they sold millions, millions. Yeah. Yeah. Right, mm. And that took off. So. Say with the findings, with the research, easy to use something totally new. Mm-hmm. We have to come up with something totally new that is not on the market. We'd also have to consider that who we were gonna get to make these custom cases in terms of manufacturing processes, we might wanna learn about labour laws. In different countries and stuff so we can do it cheap, but you don't wanna exploit labour in third world countries. Yeah. So actually you could turn around and say that the reason the cost is high for the device is because you're paying a working wage to the person who made the device. Mm-hmm. But we can get a production in, countries like, India yes, yes, countries like India or China or Malaysia, so you can go a better features and better price and you can sell more. Cost of living is low. So Yes. Good, that'd be something that manufacturing would have to explore more to where Mm-hmm. Mm. Where Where it would be manufactured is is another step. So Yes but that we can that we can talk about the production later, okay, depends on the quantity, okay. Yeah. We're here to design, come up with a nice product. Mm-hmm. Mm-hmm. So we don't need to have our own fabric factory or something, so we can have a tie-up with who the do the fabric, okay, for the different electronics items, then we can have a business tie-up and to cut the cost, okay, to sell more. But let's decide first about the components concept and interface concept, okay, if is acceptable for both of you, what Ed was talking. And your design whether you want with the display or without display or just a simple. Mm-hmm. I think it's a good idea, but we need to really think about how useful it's gonna be because theoretically with the TV you already have a big display right in front of you. Hmm. So, if we're trying to keep costs down, then maybe sacrificing the display is a way to go. Hmm. It depends on how much putting a display costs and what it would be used for very specifically what it would be used for, 'cause if it's only used for one little thing, then putting in a big display case or a big display that's probably expensive just to do the training on the chip for the speech recognition or whatever, may not be the most cost-efficient way to go, but that's just sort of speculation. Hmm. Mm-hmm. What do you think Ed? He liked the display in one of the concepts that you showed, do you know how much it costs, to add a little display like this? No. No no It's 'cause we have to find out cost on it. Do you wanna take an action item to go find out? Okay. Sorry about that. That's no problem. I'm here for the pushing it after it's made. Yes. I will market it. Once we get a price on it then we can market it. So the advanced chip on print is what we've we've determined and the engineering industrial design is the recommendation, and I think we've kinda come to some agreement regarding this concept of a wooden case. Mm-hmm. A customisable and no, I think they could be rubber like they are now, so you have that tactile experience of So are we done with this meeting? Nice beautiful mahogany red wooden case. What about the buttons, would the buttons be wood too, or Mm-hmm. I don't think so. Yes. Yes. Looks nice. So what we'll do is, we will stick with the simple design for time being until Ed find outs about how much it's cost to the extra, in case we go for the display. Okay. So maybe what you can do is both of you, you can come up with the prototype, okay, the model. Okay. Okay? Sure. I hope, is it okay if they will come up with the prototype design, okay. Then they can show you how it looks like, and then submit to the I will submit to the management. Okay? Then meantime you can come up with the price, how much it's cost as extra for the display. And a marketing strategy. And the marketing strategy, that's very important, okay. And marketing strategy, thank you. Yes. How much you can how how much how much you can sell extra. Fired. Of course you'll make money too, so it it's not only pay-out, you make money too, your commission. Okay, so, any questions? No. So, by next meeting, so, please come up with the prototype, okay, then we can proceed from there. Okay. It's okay? Mm-hmm. So thanks for all your efforts and coming for the meeting again, and see you soon then. Okay. Okay? Thank you.",
+    "sentences": [
+        {
+            "displayText": "Welcome back after lunch, I hope you had a good lunch together.",
+            "speakerFaceId": "0",
+            "sentenceId": 0,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "For this meeting the main agenda okay to discuss about the conceptual design meeting.",
+            "speakerFaceId": "0",
+            "sentenceId": 1,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Okay and the agenda will be the opening and that's the product manager or secretary that's me and the presentations from the Christine and Agnes and from Mister Ed.",
+            "speakerFaceId": "0",
+            "sentenceId": 2,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "And finally in this meeting we have to decide and we are to take a decision on the remote control concept and the functional design So we have forty minutes, I think it's little bit low, but I hope we can finish it up so I'll handle to the functional team, to the Christine, okay, to discuss about the components concept.",
+            "speakerFaceId": "0",
+            "sentenceId": 3,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Okay.",
+            "speakerFaceId": "2",
+            "sentenceId": 4,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So if you could open the PowerPoint presentation.",
+            "speakerFaceId": "2",
+            "sentenceId": 5,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "I'm number two.",
+            "speakerFaceId": "2",
+            "sentenceId": 6,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "You're number two.",
+            "speakerFaceId": "0",
+            "sentenceId": 7,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Kay The next one.",
+            "speakerFaceId": "0",
+            "sentenceId": 8,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Components design, there we go.",
+            "speakerFaceId": "2",
+            "sentenceId": 9,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So can we put it in slide show mode?",
+            "speakerFaceId": "2",
+            "sentenceId": 10,
+            "question": {
+                "possible": true,
+                "meaningful": true,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [
+                    11,
+                    12
+                ],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false,
+                "meta": {
+                    "answerable": true,
+                    "multispan": false,
+                    "multispeaker": false
+                }
+            }
+        },
+        {
+            "displayText": "Yeah.",
+            "speakerFaceId": "2",
+            "sentenceId": 11,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Right here, is that one, yes please.",
+            "speakerFaceId": "2",
+            "sentenceId": 12,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Thank you.",
+            "speakerFaceId": "2",
+            "sentenceId": 13,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "I'll take the mouse.",
+            "speakerFaceId": "2",
+            "sentenceId": 14,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So we were looking specifically at the following components, the case, the power supply, the means of communications with the television set.",
+            "speakerFaceId": "2",
+            "sentenceId": 15,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "In instance we had talked about using some sort of speech recognition, no you don't actually I haven't have to have microphone in the device, but maybe you do have it a way it has to hear the speaker so it could be in the television set, could be in the device, but somewhere you have to put the microphone, and a way of making beeps or sounds so you can find it when.",
+            "speakerFaceId": "2",
+            "sentenceId": 16,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm-hmm.",
+            "speakerFaceId": "1",
+            "sentenceId": 17,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So the other thing that we So.",
+            "speakerFaceId": "2",
+            "sentenceId": 18,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Our method for going about this is we've looked at the historical record, what's worked, what hasn't and then we wanted to evaluate some new materials and we contacted manufacturing for their input because, course, we might come up and choose the material that then manufacturing didn't have the technologies or capabilities to offer us, so this is the approach that we took during our research.",
+            "speakerFaceId": "2",
+            "sentenceId": 19,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So for the case, we told we were making a specific assumption that it would be curved in design.",
+            "speakerFaceId": "2",
+            "sentenceId": 20,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Course, I wanted it to be expandable and shrinkable, but that doesn't seem to be one of the non-option we can really seriously explore, so then we were thinking about rubber, but unfortunately that's been eliminated because of the heat factor and there might be some problems with how it's goes with the board.",
+            "speakerFaceId": "2",
+            "sentenceId": 21,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "And then plastic also has this problem of melting and it gets brittle after a while, so we still had titanium and wood available, but unfortunately titanium's also been eliminated the people in manufacturing said that you couldn't make curved cases out of titanium, although how Apple did it with.",
+            "speakerFaceId": "2",
+            "sentenceId": 22,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So, this is our finding.",
+            "speakerFaceId": "2",
+            "sentenceId": 23,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "At least it's environmentally friendly.",
+            "speakerFaceId": "1",
+            "sentenceId": 24,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "And as she said, it's an environmentally friendly material, so we're currently proposing, we'll get to all my personal preferences in just a second.",
+            "speakerFaceId": "2",
+            "sentenceId": 25,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So then there's this other matter of the chips and we could use a simple design on the board, but these simple chips, but you don't get very much intelligence with this simple one.",
+            "speakerFaceId": "2",
+            "sentenceId": 26,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "And then there was the regular which I regret that I've forgotten exactly why I'm eliminating that one.",
+            "speakerFaceId": "2",
+            "sentenceId": 27,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "The other option was this advanced chip on print, and we liked we found that it includes this infrared sender, which 'member that was an important component of finding the right chip.",
+            "speakerFaceId": "2",
+            "sentenceId": 28,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "And manufacturing has told us that they've recently developed a sensor and a speaker that would be integrated into this advanced chip on print, so we now jumping right to our personal preferences I'd really think we should, use some of some really exotic woods, like you guys come from tropical countries so you can kinda think of some trees and some nice woods.",
+            "speakerFaceId": "2",
+            "sentenceId": 29,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "I think that people might really want to design their own cases, see, they could do sort of this three-dimensional design on the internet, and then they could submit their orders, kinda like you submit a custom car order, and you can choose the colour and the size of the wheels and the colours of the leather and things like that, and then I think we should go with the solar cells as well as the microphone and speaker on the advanced chip.",
+            "speakerFaceId": "2",
+            "sentenceId": 30,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So this is the findings of our research and my recommendations for the new remote control would be to have it be made out of wood.",
+            "speakerFaceId": "2",
+            "sentenceId": 31,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Do you have any problems with that?",
+            "speakerFaceId": "2",
+            "sentenceId": 32,
+            "question": {
+                "possible": true,
+                "meaningful": true,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [
+                    34,
+                    36
+                ],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false,
+                "meta": {
+                    "answerable": true,
+                    "multispan": true,
+                    "multispeaker": false
+                }
+            }
+        },
+        {
+            "displayText": "Can you go back one slide?",
+            "speakerFaceId": "0",
+            "sentenceId": 33,
+            "question": {
+                "possible": true,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false,
+                "meta": {
+                    "answerable": false,
+                    "multispan": false,
+                    "multispeaker": false
+                }
+            }
+        },
+        {
+            "displayText": "I'm not sure, I know, let's see.",
+            "speakerFaceId": "2",
+            "sentenceId": 34,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Thank you.",
+            "speakerFaceId": "1",
+            "sentenceId": 35,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Let's go back up here.",
+            "speakerFaceId": "2",
+            "sentenceId": 36,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Yeah.",
+            "speakerFaceId": "1",
+            "sentenceId": 37,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Yes, question, what's mean exactly, advanced chip on print?",
+            "speakerFaceId": "0",
+            "sentenceId": 38,
+            "question": {
+                "possible": true,
+                "meaningful": true,
+                "questionContext": [],
+                "combinedQuestion": [
+                    38,
+                    39
+                ],
+                "answerSpan": [
+                    40,
+                    43
+                ],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false,
+                "meta": {
+                    "answerable": true,
+                    "multispan": true,
+                    "multispeaker": true
+                }
+            }
+        },
+        {
+            "displayText": "What's the meaning of that?",
+            "speakerFaceId": "0",
+            "sentenceId": 39,
+            "question": {
+                "possible": true,
+                "meaningful": true,
+                "questionContext": [],
+                "combinedQuestion": [
+                    38,
+                    39
+                ],
+                "answerSpan": [
+                    40,
+                    43
+                ],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false,
+                "meta": {
+                    "answerable": true,
+                    "multispan": true,
+                    "multispeaker": true
+                }
+            }
+        },
+        {
+            "displayText": "I think it's a multiple chip design and it's maybe printed on to the circuit board.",
+            "speakerFaceId": "2",
+            "sentenceId": 40,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm-hmm.",
+            "speakerFaceId": "0",
+            "sentenceId": 41,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "I could find out more about that before the next meeting.",
+            "speakerFaceId": "2",
+            "sentenceId": 42,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Is it on a micro-processor based or Okay, that would be great, so if you find out from the technology background, okay, so that would be good.",
+            "speakerFaceId": "0",
+            "sentenceId": 43,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Don't but I'll find out more at our next meeting.",
+            "speakerFaceId": "2",
+            "sentenceId": 44,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Sounds good.",
+            "speakerFaceId": "2",
+            "sentenceId": 45,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Why was the plastic eliminated as a possible material?",
+            "speakerFaceId": "1",
+            "sentenceId": 46,
+            "question": {
+                "possible": true,
+                "meaningful": true,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [
+                    47,
+                    50,
+                    51
+                ],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false,
+                "meta": {
+                    "answerable": true,
+                    "multispan": true,
+                    "multispeaker": true
+                }
+            }
+        },
+        {
+            "displayText": "Because it gets brittle, cracks We expect these remote controls to be around for several hundred years.",
+            "speakerFaceId": "2",
+            "sentenceId": 47,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm-hmm.",
+            "speakerFaceId": "1",
+            "sentenceId": 48,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So.",
+            "speakerFaceId": "2",
+            "sentenceId": 49,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Good Good expression.",
+            "speakerFaceId": "2",
+            "sentenceId": 50,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Which Although I think with wood though you'd run into the same types of problems, it chips, if you drop it, I'm not I think if you use really good quality wood, then it might work, but you can't just use exactly.",
+            "speakerFaceId": "1",
+            "sentenceId": 51,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Wow, good expression.",
+            "speakerFaceId": "3",
+            "sentenceId": 52,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "After us.",
+            "speakerFaceId": "3",
+            "sentenceId": 53,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "I don't know, speak for yourself, I'm planning to be around for a while.",
+            "speakerFaceId": "2",
+            "sentenceId": 54,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So you're not convinced about the wood, yes.",
+            "speakerFaceId": "0",
+            "sentenceId": 55,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Actually, I'm ready to sell it.",
+            "speakerFaceId": "3",
+            "sentenceId": 56,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "You're what?",
+            "speakerFaceId": "2",
+            "sentenceId": 57,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "I'm ready to sell it.",
+            "speakerFaceId": "3",
+            "sentenceId": 58,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "You think?",
+            "speakerFaceId": "2",
+            "sentenceId": 59,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "No no no no, the the only the only wood you can use are the ones that are extremely hard wood, but there are some very pretty woods out there.",
+            "speakerFaceId": "3",
+            "sentenceId": 60,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "And you could you could sell oils with it, to take care of it.",
+            "speakerFaceId": "2",
+            "sentenceId": 61,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "I'm glad you Okay, good.",
+            "speakerFaceId": "2",
+            "sentenceId": 62,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "That's actually very innovative idea.",
+            "speakerFaceId": "3",
+            "sentenceId": 63,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Having a hard time keeping control over my face.",
+            "speakerFaceId": "2",
+            "sentenceId": 64,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "It's actually a very innovative different idea that you can choose your colour of wood, your type of wood.",
+            "speakerFaceId": "3",
+            "sentenceId": 65,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm-hmm.",
+            "speakerFaceId": "2",
+            "sentenceId": 66,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "The stain.",
+            "speakerFaceId": "1",
+            "sentenceId": 67,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Each person is gonna have their own personalised, individualised speech recognition remote control in wood, that's not on the market.",
+            "speakerFaceId": "3",
+            "sentenceId": 68,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm.",
+            "speakerFaceId": "2",
+            "sentenceId": 69,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So it's looks good the design the functional design what about you?",
+            "speakerFaceId": "0",
+            "sentenceId": 70,
+            "question": {
+                "possible": true,
+                "meaningful": true,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [
+                    71,
+                    72
+                ],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false,
+                "meta": {
+                    "answerable": true,
+                    "multispan": false,
+                    "multispeaker": true
+                }
+            }
+        },
+        {
+            "displayText": "In terms of comments on this or in terms of my own.",
+            "speakerFaceId": "1",
+            "sentenceId": 71,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Yes, in yes, in terms of comments first Okay then, let's move to Agnes.",
+            "speakerFaceId": "0",
+            "sentenceId": 72,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "In turns of wow.",
+            "speakerFaceId": "3",
+            "sentenceId": 73,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "She works in the cubicle next to me so she was already a little bit prepared for this.",
+            "speakerFaceId": "2",
+            "sentenceId": 74,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Luckily Ed was not.",
+            "speakerFaceId": "2",
+            "sentenceId": 75,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Wood?",
+            "speakerFaceId": "3",
+            "sentenceId": 76,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "I think we can get the quality materials then it shouldn't influence the design principles too much, which you'll see with my presentation.",
+            "speakerFaceId": "1",
+            "sentenceId": 77,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "One thing we'd have to check though is whether how quickly the novelty wears off of having for example.",
+            "speakerFaceId": "1",
+            "sentenceId": 78,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm-hmm.",
+            "speakerFaceId": "2",
+            "sentenceId": 79,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "You wouldn't wanna have to have splinters in your hand while you're using your It's really good if your dog gets ahold of it, they can use it for teething.",
+            "speakerFaceId": "2",
+            "sentenceId": 80,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So, have to see how kid-friendly it is and all that, but Sure.",
+            "speakerFaceId": "1",
+            "sentenceId": 81,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "They do that anyway with the rubber and plastic, so, and chew 'em up.",
+            "speakerFaceId": "3",
+            "sentenceId": 82,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "They do it with other materials as well.",
+            "speakerFaceId": "2",
+            "sentenceId": 83,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "And chew 'em up.",
+            "speakerFaceId": "3",
+            "sentenceId": 84,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "I'm sorry.",
+            "speakerFaceId": "2",
+            "sentenceId": 85,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "You're You are in participant three.",
+            "speakerFaceId": "0",
+            "sentenceId": 86,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "One point three.",
+            "speakerFaceId": "1",
+            "sentenceId": 87,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "This one?",
+            "speakerFaceId": "0",
+            "sentenceId": 88,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "I think so.",
+            "speakerFaceId": "1",
+            "sentenceId": 89,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "That's the one.",
+            "speakerFaceId": "1",
+            "sentenceId": 90,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So, it's a very short presentation, 'cause I'm actually gonna draw you the layout on the board so if you want to just go straight to the second slide, which basically shows, sort of I took the ideas that we were talking about last time and tried to put that into the remote control so the things that you can actually see on it are off switch, volume and channel control, the menu access button, ergonomic shape, which I completely agree with Christine's idea to have it sort of molded, so it's slightly more ergonomic and comfortable to hold than the standard very straight remote controls.",
+            "speakerFaceId": "1",
+            "sentenceId": 91,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "And actually the other thing with the wood if we take your customising idea, is that people can actually do sort of quasi-measurements on their hand size, so if someone has larger hands, you have a wider remote control.",
+            "speakerFaceId": "1",
+            "sentenceId": 92,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Right, my hand is different size than yours for example.",
+            "speakerFaceId": "2",
+            "sentenceId": 93,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So, that's actually a really good idea for customisability.",
+            "speakerFaceId": "1",
+            "sentenceId": 94,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "One thing I thought might be kind of interesting is to put a flip screen on it, just like you have on flip phones, so that you don't have this case where someone sits on the remote control or accidentally puts their hand on it, especially if you have little kids around, they're not pressing the buttons while you're trying to watch a TV show and accidentally change the channel or turn it off.",
+            "speakerFaceId": "1",
+            "sentenceId": 95,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm-hmm.",
+            "speakerFaceId": "2",
+            "sentenceId": 96,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "And also you had issues with the batteries running out, so I thought maybe we could put a little battery life-light on it that kind of goes dimmer and dimmer and dimmer as your battery starts to die.",
+            "speakerFaceId": "1",
+            "sentenceId": 97,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "And in terms of invisible features, audio and tactile feedback on button presses and, like you said, speech recognition.",
+            "speakerFaceId": "1",
+            "sentenceId": 98,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm-hmm.",
+            "speakerFaceId": "2",
+            "sentenceId": 99,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So, in terms of what this thing would actually look like Despite working in interface design, I'm not the greatest artist in the world, so you'll have to forgive me.",
+            "speakerFaceId": "1",
+            "sentenceId": 100,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "You'd have something like this with an on-off switch fairly big, sort of in the corner and by itself, so you don't accidentally turn your TV off while you're trying to manoeuvre other buttons.",
+            "speakerFaceId": "1",
+            "sentenceId": 101,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "And then you have sort of one of those toggle displays for, oops, channels and volume, sort of for surfing channels and then volume, so the volume would be the up and down, 'cause volume goes up and down and then channels left to right.",
+            "speakerFaceId": "1",
+            "sentenceId": 102,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "And then here you'd have your sort of standard, telephonish number pad.",
+            "speakerFaceId": "1",
+            "sentenceId": 103,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "And then on one side you would have an access to the menu on your TV and on the other side a way to turn off the voice control.",
+            "speakerFaceId": "1",
+            "sentenceId": 104,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So that if the user doesn't want to use their voice, they can just turn it off and you don't have the remote control accidentally changing things on you.",
+            "speakerFaceId": "1",
+            "sentenceId": 105,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm.",
+            "speakerFaceId": "2",
+            "sentenceId": 106,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm-hmm.",
+            "speakerFaceId": "2",
+            "sentenceId": 107,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So again you can have a little LCD light somewhere, the flip thing and Have I forgotten anything?",
+            "speakerFaceId": "1",
+            "sentenceId": 108,
+            "question": {
+                "possible": true,
+                "meaningful": true,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [
+                    109,
+                    110,
+                    111,
+                    112,
+                    114,
+                    116
+                ],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false,
+                "meta": {
+                    "answerable": true,
+                    "multispan": true,
+                    "multispeaker": true
+                }
+            }
+        },
+        {
+            "displayText": "I don't think so.",
+            "speakerFaceId": "1",
+            "sentenceId": 109,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So, as you can see, it's a very very simple design, which is one of the things I really wanted to keep, is keep it simple, not have too many buttons, not have too many functionalities thrown into it.",
+            "speakerFaceId": "1",
+            "sentenceId": 110,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "No.",
+            "speakerFaceId": "3",
+            "sentenceId": 111,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Think the design can pretty much carry over to everything, although with the wood the flip screen might have to do something slightly different.",
+            "speakerFaceId": "1",
+            "sentenceId": 112,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "A hinge.",
+            "speakerFaceId": "2",
+            "sentenceId": 113,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Be like a copper hinge or.",
+            "speakerFaceId": "2",
+            "sentenceId": 114,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Yeah.",
+            "speakerFaceId": "1",
+            "sentenceId": 115,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "But you also have to start watching out for the weight, 'cause depending on how much the the flip screen will add to the weight of the remote control, you don't want it to start getting too heavy.",
+            "speakerFaceId": "1",
+            "sentenceId": 116,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm-hmm.",
+            "speakerFaceId": "2",
+            "sentenceId": 117,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm.",
+            "speakerFaceId": "2",
+            "sentenceId": 118,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "But that's the general layout with the general functionalities, if we come up with something else.",
+            "speakerFaceId": "1",
+            "sentenceId": 119,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "As you can see, there's still lots of space on the actual remote control and if you do it customisably, you can make this thing fairly small or fairly large, depending on personal preferences.",
+            "speakerFaceId": "1",
+            "sentenceId": 120,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm-hmm, mm-hmm.",
+            "speakerFaceId": "2",
+            "sentenceId": 121,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Hmm.",
+            "speakerFaceId": "3",
+            "sentenceId": 122,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So, that's pretty much all I had to say, everything else in terms of design issues.",
+            "speakerFaceId": "1",
+            "sentenceId": 123,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "The centering of the key pad and the channel is just depending on where your thumb is and you tend to use the volume control and the browsing more than the actual number pad, so that would be sort of in direct line of where your thumb goes when you are holding the remote control, the number pad a little bit lower 'cause it's used less frequently.",
+            "speakerFaceId": "1",
+            "sentenceId": 124,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm-hmm.",
+            "speakerFaceId": "2",
+            "sentenceId": 125,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm.",
+            "speakerFaceId": "2",
+            "sentenceId": 126,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm-hmm.",
+            "speakerFaceId": "2",
+            "sentenceId": 127,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So once we decide exactly what we want, then we can figure out the exact positioning, but more or less I think it should go along those lines.",
+            "speakerFaceId": "1",
+            "sentenceId": 128,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "What's the comments or Okay Mm-hmm.",
+            "speakerFaceId": "0",
+            "sentenceId": 129,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Simple design.",
+            "speakerFaceId": "3",
+            "sentenceId": 130,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "It's what consumers want.",
+            "speakerFaceId": "3",
+            "sentenceId": 131,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "It's almost like, Houston, we have a product here.",
+            "speakerFaceId": "3",
+            "sentenceId": 132,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Problem is obviously gonna be cost.",
+            "speakerFaceId": "3",
+            "sentenceId": 133,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm-hmm.",
+            "speakerFaceId": "1",
+            "sentenceId": 134,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Okay, I also have a very simple presentation, because for the marketing point you have to see what the consumers want.",
+            "speakerFaceId": "3",
+            "sentenceId": 135,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Yeah.",
+            "speakerFaceId": "0",
+            "sentenceId": 136,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Yeah.",
+            "speakerFaceId": "1",
+            "sentenceId": 137,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "I also have copied a different type of remote.",
+            "speakerFaceId": "3",
+            "sentenceId": 138,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "If you can find me, where I'm at.",
+            "speakerFaceId": "3",
+            "sentenceId": 139,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "There should only be one in here.",
+            "speakerFaceId": "3",
+            "sentenceId": 140,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Trend watch.",
+            "speakerFaceId": "3",
+            "sentenceId": 141,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Sure.",
+            "speakerFaceId": "2",
+            "sentenceId": 142,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "It's being modified.",
+            "speakerFaceId": "3",
+            "sentenceId": 143,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "They're stealing our product.",
+            "speakerFaceId": "3",
+            "sentenceId": 144,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "We've been giving simple questionnaires in different areas because obviously we have to see what the consumers are looking for today, 'cause trends change very very quickly.",
+            "speakerFaceId": "3",
+            "sentenceId": 145,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "In six months maybe this idea is already gone out the window, so it's gonna be a question how fast we can act.",
+            "speakerFaceId": "3",
+            "sentenceId": 146,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "They already erased the rest of mine.",
+            "speakerFaceId": "3",
+            "sentenceId": 147,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "No, go to findings.",
+            "speakerFaceId": "2",
+            "sentenceId": 148,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "No, no.",
+            "speakerFaceId": "1",
+            "sentenceId": 149,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "No no, no no.",
+            "speakerFaceId": "3",
+            "sentenceId": 150,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Cause I had another comment there.",
+            "speakerFaceId": "3",
+            "sentenceId": 151,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "The market trend.",
+            "speakerFaceId": "3",
+            "sentenceId": 152,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "This is what we know from the questionnaires from the all the surveys we've done, fancy and feel-good, that's what we've been looking for, something that feels good in the hand, that's easy to use.",
+            "speakerFaceId": "3",
+            "sentenceId": 153,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Looking for next generation of innovation, because all the remotes out there now, they're all very similar, they all do the same thing, we have to have something completely different.",
+            "speakerFaceId": "3",
+            "sentenceId": 154,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Okay?",
+            "speakerFaceId": "3",
+            "sentenceId": 155,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Easy to use, has become another major interest that with the whiteboard we can see that it's a remote that's easy to use.",
+            "speakerFaceId": "3",
+            "sentenceId": 156,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "And I think this is another thing that's interesting is the consumers actually willing to pay the price for exciting technology.",
+            "speakerFaceId": "3",
+            "sentenceId": 157,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So even if we have a product that may be more expensive, if it comes out right, if they look it looks and feels good and has technology.",
+            "speakerFaceId": "3",
+            "sentenceId": 158,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "The second two, you can see the last one is a very easy simple design.",
+            "speakerFaceId": "3",
+            "sentenceId": 159,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "The second one, there is about forty-five thousand different buttons on it, which makes it very hard to use.",
+            "speakerFaceId": "3",
+            "sentenceId": 160,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "The first one, I see that they put in a display.",
+            "speakerFaceId": "3",
+            "sentenceId": 161,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Now there's something else with the little flip-up, now we're adding all kinds of things in, but with the little flip-up, if you have a little display on the flip-up that when you close it everything is locked.",
+            "speakerFaceId": "3",
+            "sentenceId": 162,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm-hmm.",
+            "speakerFaceId": "1",
+            "sentenceId": 163,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Yeah.",
+            "speakerFaceId": "1",
+            "sentenceId": 164,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Maybe the display also makes it easier to use, because sometimes when you're looking for buttons, maybe if you see a display Okay Because I've seen mostly the standard ones.",
+            "speakerFaceId": "3",
+            "sentenceId": 165,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Context-sensitive instructions, depending on what the what mode the TV or the DVD or something else is in.",
+            "speakerFaceId": "2",
+            "sentenceId": 166,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Right.",
+            "speakerFaceId": "1",
+            "sentenceId": 167,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Especially you might need something like that for training the speech recognition and.",
+            "speakerFaceId": "1",
+            "sentenceId": 168,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Now you have it now you have one with the very simple also.",
+            "speakerFaceId": "3",
+            "sentenceId": 169,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "The idea is simple, but with a display, so you can see what you're doing.",
+            "speakerFaceId": "3",
+            "sentenceId": 170,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm-hmm.",
+            "speakerFaceId": "1",
+            "sentenceId": 171,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So maybe if we can incorporate the easiness of use, trendy, fancy, feels good, with a display, wood, designer wood, designer colours, we might've Mm-hmm.",
+            "speakerFaceId": "3",
+            "sentenceId": 172,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm-hmm.",
+            "speakerFaceId": "1",
+            "sentenceId": 173,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Maybe what you could do is when somebody orders the device you could send them some sort of a foam rubber ball, and then they would squeeze it, and it would take the shape of their hand.",
+            "speakerFaceId": "2",
+            "sentenceId": 174,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So it's really molded to your specific But for that you'd also have to do sort of an average across families and things like that unless everyone has their own personal remote.",
+            "speakerFaceId": "1",
+            "sentenceId": 175,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "And then you would know what the geometry of their hands would be and Yes you'd know what kind of wood to get.",
+            "speakerFaceId": "2",
+            "sentenceId": 176,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "How hard they squeeze?",
+            "speakerFaceId": "3",
+            "sentenceId": 177,
+            "question": {
+                "possible": true,
+                "meaningful": true,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [
+                    178,
+                    179,
+                    180
+                ],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false,
+                "meta": {
+                    "answerable": true,
+                    "multispan": false,
+                    "multispeaker": true
+                }
+            }
+        },
+        {
+            "displayText": "Resistance right.",
+            "speakerFaceId": "3",
+            "sentenceId": 178,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "That's right, that's right, you wouldn't wanna go too far down that.",
+            "speakerFaceId": "2",
+            "sentenceId": 179,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "That actually would increase the revenues we could expect.",
+            "speakerFaceId": "2",
+            "sentenceId": 180,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "The sales.",
+            "speakerFaceId": "1",
+            "sentenceId": 181,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "The.",
+            "speakerFaceId": "0",
+            "sentenceId": 182,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "I hope so.",
+            "speakerFaceId": "0",
+            "sentenceId": 183,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "No, but incorporating the three obviously it'd be something totally new on the market, totally different from Although, what it was it it was Nokia that came out with this changeable colours.",
+            "speakerFaceId": "3",
+            "sentenceId": 184,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Yeah.",
+            "speakerFaceId": "1",
+            "sentenceId": 185,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Already the customisability is a really good sort of new gimmick.",
+            "speakerFaceId": "1",
+            "sentenceId": 186,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm-hmm.",
+            "speakerFaceId": "2",
+            "sentenceId": 187,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Right, you take it apart, and take it off and put on another face and then they sold millions, millions.",
+            "speakerFaceId": "3",
+            "sentenceId": 188,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Yeah.",
+            "speakerFaceId": "1",
+            "sentenceId": 189,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Yeah.",
+            "speakerFaceId": "1",
+            "sentenceId": 190,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Right, mm.",
+            "speakerFaceId": "2",
+            "sentenceId": 191,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "And that took off.",
+            "speakerFaceId": "1",
+            "sentenceId": 192,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So.",
+            "speakerFaceId": "3",
+            "sentenceId": 193,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Say with the findings, with the research, easy to use something totally new.",
+            "speakerFaceId": "3",
+            "sentenceId": 194,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm-hmm.",
+            "speakerFaceId": "1",
+            "sentenceId": 195,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "We have to come up with something totally new that is not on the market.",
+            "speakerFaceId": "3",
+            "sentenceId": 196,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "We'd also have to consider that who we were gonna get to make these custom cases in terms of manufacturing processes, we might wanna learn about labour laws.",
+            "speakerFaceId": "2",
+            "sentenceId": 197,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "In different countries and stuff so we can do it cheap, but you don't wanna exploit labour in third world countries.",
+            "speakerFaceId": "2",
+            "sentenceId": 198,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Yeah.",
+            "speakerFaceId": "0",
+            "sentenceId": 199,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So actually you could turn around and say that the reason the cost is high for the device is because you're paying a working wage to the person who made the device.",
+            "speakerFaceId": "2",
+            "sentenceId": 200,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm-hmm.",
+            "speakerFaceId": "1",
+            "sentenceId": 201,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "But we can get a production in, countries like, India yes, yes, countries like India or China or Malaysia, so you can go a better features and better price and you can sell more.",
+            "speakerFaceId": "0",
+            "sentenceId": 202,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Cost of living is low.",
+            "speakerFaceId": "2",
+            "sentenceId": 203,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So Yes.",
+            "speakerFaceId": "0",
+            "sentenceId": 204,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Good, that'd be something that manufacturing would have to explore more to where Mm-hmm.",
+            "speakerFaceId": "2",
+            "sentenceId": 205,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm.",
+            "speakerFaceId": "1",
+            "sentenceId": 206,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Where Where it would be manufactured is is another step.",
+            "speakerFaceId": "3",
+            "sentenceId": 207,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So Yes but that we can that we can talk about the production later, okay, depends on the quantity, okay.",
+            "speakerFaceId": "0",
+            "sentenceId": 208,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Yeah.",
+            "speakerFaceId": "2",
+            "sentenceId": 209,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "We're here to design, come up with a nice product.",
+            "speakerFaceId": "3",
+            "sentenceId": 210,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm-hmm.",
+            "speakerFaceId": "1",
+            "sentenceId": 211,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm-hmm.",
+            "speakerFaceId": "2",
+            "sentenceId": 212,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So we don't need to have our own fabric factory or something, so we can have a tie-up with who the do the fabric, okay, for the different electronics items, then we can have a business tie-up and to cut the cost, okay, to sell more.",
+            "speakerFaceId": "0",
+            "sentenceId": 213,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "But let's decide first about the components concept and interface concept, okay, if is acceptable for both of you, what Ed was talking.",
+            "speakerFaceId": "0",
+            "sentenceId": 214,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "And your design whether you want with the display or without display or just a simple.",
+            "speakerFaceId": "0",
+            "sentenceId": 215,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm-hmm.",
+            "speakerFaceId": "1",
+            "sentenceId": 216,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "I think it's a good idea, but we need to really think about how useful it's gonna be because theoretically with the TV you already have a big display right in front of you.",
+            "speakerFaceId": "1",
+            "sentenceId": 217,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Hmm.",
+            "speakerFaceId": "2",
+            "sentenceId": 218,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So, if we're trying to keep costs down, then maybe sacrificing the display is a way to go.",
+            "speakerFaceId": "1",
+            "sentenceId": 219,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Hmm.",
+            "speakerFaceId": "2",
+            "sentenceId": 220,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "It depends on how much putting a display costs and what it would be used for very specifically what it would be used for, 'cause if it's only used for one little thing, then putting in a big display case or a big display that's probably expensive just to do the training on the chip for the speech recognition or whatever, may not be the most cost-efficient way to go, but that's just sort of speculation.",
+            "speakerFaceId": "1",
+            "sentenceId": 221,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Hmm.",
+            "speakerFaceId": "2",
+            "sentenceId": 222,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm-hmm.",
+            "speakerFaceId": "2",
+            "sentenceId": 223,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "What do you think Ed?",
+            "speakerFaceId": "2",
+            "sentenceId": 224,
+            "question": {
+                "possible": true,
+                "meaningful": true,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false,
+                "meta": {
+                    "answerable": false,
+                    "multispan": false,
+                    "multispeaker": false
+                }
+            }
+        },
+        {
+            "displayText": "He liked the display in one of the concepts that you showed, do you know how much it costs, to add a little display like this?",
+            "speakerFaceId": "2",
+            "sentenceId": 225,
+            "question": {
+                "possible": true,
+                "meaningful": true,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [
+                    226,
+                    227
+                ],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false,
+                "meta": {
+                    "answerable": true,
+                    "multispan": false,
+                    "multispeaker": false
+                }
+            }
+        },
+        {
+            "displayText": "No.",
+            "speakerFaceId": "3",
+            "sentenceId": 226,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "No no It's 'cause we have to find out cost on it.",
+            "speakerFaceId": "3",
+            "sentenceId": 227,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Do you wanna take an action item to go find out?",
+            "speakerFaceId": "2",
+            "sentenceId": 228,
+            "question": {
+                "possible": true,
+                "meaningful": true,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false,
+                "meta": {
+                    "answerable": false,
+                    "multispan": false,
+                    "multispeaker": false
+                }
+            }
+        },
+        {
+            "displayText": "Okay.",
+            "speakerFaceId": "2",
+            "sentenceId": 229,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Sorry about that.",
+            "speakerFaceId": "2",
+            "sentenceId": 230,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "That's no problem.",
+            "speakerFaceId": "3",
+            "sentenceId": 231,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "I'm here for the pushing it after it's made.",
+            "speakerFaceId": "3",
+            "sentenceId": 232,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Yes.",
+            "speakerFaceId": "0",
+            "sentenceId": 233,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "I will market it.",
+            "speakerFaceId": "3",
+            "sentenceId": 234,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Once we get a price on it then we can market it.",
+            "speakerFaceId": "3",
+            "sentenceId": 235,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So the advanced chip on print is what we've we've determined and the engineering industrial design is the recommendation, and I think we've kinda come to some agreement regarding this concept of a wooden case.",
+            "speakerFaceId": "2",
+            "sentenceId": 236,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm-hmm.",
+            "speakerFaceId": "1",
+            "sentenceId": 237,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "A customisable and no, I think they could be rubber like they are now, so you have that tactile experience of So are we done with this meeting?",
+            "speakerFaceId": "2",
+            "sentenceId": 238,
+            "question": {
+                "possible": true,
+                "meaningful": true,
+                "questionContext": [
+                    236
+                ],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false,
+                "meta": {
+                    "answerable": false,
+                    "multispan": false,
+                    "multispeaker": false
+                }
+            }
+        },
+        {
+            "displayText": "Nice beautiful mahogany red wooden case.",
+            "speakerFaceId": "3",
+            "sentenceId": 239,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "What about the buttons, would the buttons be wood too, or Mm-hmm.",
+            "speakerFaceId": "1",
+            "sentenceId": 240,
+            "question": {
+                "possible": true,
+                "meaningful": true,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [
+                    241
+                ],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false,
+                "meta": {
+                    "answerable": true,
+                    "multispan": false,
+                    "multispeaker": false
+                }
+            }
+        },
+        {
+            "displayText": "I don't think so.",
+            "speakerFaceId": "0",
+            "sentenceId": 241,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Yes.",
+            "speakerFaceId": "0",
+            "sentenceId": 242,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Yes.",
+            "speakerFaceId": "0",
+            "sentenceId": 243,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Looks nice.",
+            "speakerFaceId": "0",
+            "sentenceId": 244,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So what we'll do is, we will stick with the simple design for time being until Ed find outs about how much it's cost to the extra, in case we go for the display.",
+            "speakerFaceId": "0",
+            "sentenceId": 245,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Okay.",
+            "speakerFaceId": "0",
+            "sentenceId": 246,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So maybe what you can do is both of you, you can come up with the prototype, okay, the model.",
+            "speakerFaceId": "0",
+            "sentenceId": 247,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Okay.",
+            "speakerFaceId": "1",
+            "sentenceId": 248,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Okay?",
+            "speakerFaceId": "0",
+            "sentenceId": 249,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Sure.",
+            "speakerFaceId": "1",
+            "sentenceId": 250,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "I hope, is it okay if they will come up with the prototype design, okay.",
+            "speakerFaceId": "0",
+            "sentenceId": 251,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Then they can show you how it looks like, and then submit to the I will submit to the management.",
+            "speakerFaceId": "0",
+            "sentenceId": 252,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Okay?",
+            "speakerFaceId": "0",
+            "sentenceId": 253,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Then meantime you can come up with the price, how much it's cost as extra for the display.",
+            "speakerFaceId": "0",
+            "sentenceId": 254,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "And a marketing strategy.",
+            "speakerFaceId": "2",
+            "sentenceId": 255,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "And the marketing strategy, that's very important, okay.",
+            "speakerFaceId": "0",
+            "sentenceId": 256,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "And marketing strategy, thank you.",
+            "speakerFaceId": "3",
+            "sentenceId": 257,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Yes.",
+            "speakerFaceId": "0",
+            "sentenceId": 258,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "How much you can how how much how much you can sell extra.",
+            "speakerFaceId": "0",
+            "sentenceId": 259,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Fired.",
+            "speakerFaceId": "3",
+            "sentenceId": 260,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Of course you'll make money too, so it it's not only pay-out, you make money too, your commission.",
+            "speakerFaceId": "0",
+            "sentenceId": 261,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Okay, so, any questions?",
+            "speakerFaceId": "0",
+            "sentenceId": 262,
+            "question": {
+                "possible": true,
+                "meaningful": true,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [
+                    263
+                ],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false,
+                "meta": {
+                    "answerable": true,
+                    "multispan": false,
+                    "multispeaker": false
+                }
+            }
+        },
+        {
+            "displayText": "No.",
+            "speakerFaceId": "1",
+            "sentenceId": 263,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So, by next meeting, so, please come up with the prototype, okay, then we can proceed from there.",
+            "speakerFaceId": "0",
+            "sentenceId": 264,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Okay.",
+            "speakerFaceId": "1",
+            "sentenceId": 265,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "It's okay?",
+            "speakerFaceId": "0",
+            "sentenceId": 266,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm-hmm.",
+            "speakerFaceId": "1",
+            "sentenceId": 267,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So thanks for all your efforts and coming for the meeting again, and see you soon then.",
+            "speakerFaceId": "0",
+            "sentenceId": 268,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Okay.",
+            "speakerFaceId": "1",
+            "sentenceId": 269,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Okay?",
+            "speakerFaceId": "0",
+            "sentenceId": 270,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Thank you.",
+            "speakerFaceId": "0",
+            "sentenceId": 271,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        }
+    ]
+}

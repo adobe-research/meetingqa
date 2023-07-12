@@ -1,0 +1,2106 @@
+{
+    "displayText": "Okay. Good morning everybody. Good morning. Everybody is not ready. Almost. Ready. Alright. Okay, let's go. So, we're here today to have our first kick-off meeting about this new project we're going to talk about in a few minutes. So I will be Sebastian the Project Manager. You are the Okay. I'm Michael. I'm the user interface designer. Hi I'm Guillermo. I'm the Marketing Expert. And I am Hemant, the industrial designer. Okay, very good. Thanks for being here. So let's have a look to the agenda. So, we are going to go through this agenda and mainly first to make to to be used to the tools available in this nice and smart meeting room we have here. Then we'll go to the plans for project and have general discussions about it. So, the goal of this project is to developed a new remote control. It should be original, trendy, and also user friendly. As usual we will follow the project method that we are using in our company. It is in three step as. First the functional design. The second's a conceptual design, and then the detailed design. During each step of each design you will work separately, individually on your specific tasks and will we will meet to discuss and take decisions about what you've you did and what we will do next. So first, we have to train ourself with all the tools availables in this nice meeting room and particularly the white board so we are going to go through the white board and take some notes or do some drawings. So who want to start? Ah if no one else wants to. Mister. Okay so, want me to draw my favourite animal. Let's see. I don't really have a favourite animal, but I think I have one in mind, so I'm gonna about the spider because you can actually draw it pretty well in the corner of a white board. You have one in mind? A spider lives in a web and it has eight legs, and it can move all about the web in two dimensions. Unless it's a three dimensional web which they have sometimes. There are some spiders that live in like that have kind of a big ball of a web. And the other thing is some spiders can actually fly like they have they let out a stream of the web building material but it acts like a parachute so they can actually kind of go and build a new web somewhere else. So I think they did this in Charlotte's Web that movie that little it's actually a book first but at the end all the spiders kinda flew away. So, that's my animal. Okay. Thank you. Very interesting. Guillermo you want to? Kay I dunno why, but when I was a child I wanted to be a panther not a pink panther, or maybe yes. But don't you think it's very difficult to draw a panther? So bad I don't like it. It would be very funny for us. Oh. Okay it's a friendly panther. Maybe it's happy 'cause it just ate someone. Maybe. Um. Actually, honestly I I dunno what's his it's behaviour, dunno if it's the male who hunts or it's the female I I have watched that lions didn't hunt it's the female lions who hunt, so but I like it because it's fast, and it's black as well, so it can hide itself very easily and it's it looks like powerful, strong, I dunno. I I watch a a film about a black panther when I was a child and I was in that age when everything was shocking me a lot. Okay. Thank you. Okay. Hemant. Sure. So you don't like pink panthers? I like it. Thanks. This lapel is coming out once in a while. It's not very strong. Okay. So, not the favourite animal, but I think I'll draw elephant. I'll try to draw elephant. It's a problem. Okay, thanks. Okay so, elephant goes like this, and then it has four feet. I don't know whether there's any there should be any distance or not, but I think this is the easiest. And then we have it's trunk. And yep something like this. An eye, cute. And sometimes they have a hump. Poor elephant. It seems that elephants are pretty friendly and they have a different way of walking. So when they walk, wherever they are going to put their first feet, the second feet will always be. When they'll come to that position the second, the third feet will be there. That's the way they walk. And that's very peculiar about them. None of the other animals walk like this. And they are very useful to human beings. At least few hundred years ago when there was no means of transportations or something, or when they had to carry huge loads from one place to another, elephants were very useful. And they are found in usually the warm countries. And they are the biggest terrestrial animal. That's what I know about them. So, that's what I wanted to tell about elephants. Is this an Indian or an African elephant, 'cause you haven't drawn the ears? They are very different, Indian and African elephants. So Indian elephant is having one bump, and the African have two. And then there's a difference in the trunk of the animals, these elephants who are Indian and So at some for some elephants it's the trunk is having one Do we have some message there? Yes. I have to catch you, sorry. Wind up? Okay, some other time. We have to to go through the meeting. Okay. Thank you. Thank you. We can discuss that off-line. We'll discuss a fly or do we'll do another meeting on elephants. Thanks. So another important part of the project is about money, and about so about finances. So we should target selling price of twenty-five Euro for this remote control we have which would generate a profit of fifty million Euros, okay. And we should target the an international market. So could I just ask one question, is this a stand-alone unit that we're gonna be selling? So it's gonna be you already have a TV but you're buying an extra remote control for it or something? This is the next topic we have to discuss exactly, so let's go to it. Okay, alright. So we should decide which kind of remote control we want to we want to go. Should should it be specific remote control to some specific device? Should it be a universal one? And etcetera. So I'm waiting for your inputs very quickly because we have only three three minutes to go. Okay so, it seems the first thing that they've kinda specified is the price based on how much profit we wanna make, which seems to a kind of a little strange if we don't know what the product is yet, but I guess if that's the requirement that we need to design the product to actually fit that price bracket I guess we're gonna need to find out what's actually what people are willing to pay for what kind of product they're expecting for twenty-five Euro because it seems quite a lot for a remote control. Okay. Okay I think this is more a job to our market person. Marketing person. Mm-hmm. So it should be the topic maybe of the next meeting just to have an overview of this and in which direction we should go. So we need to close the meeting. We'll have a new meeting soon so the work every of you have to do. So on the working design, you have to work on the technical functions, and you have to work on user requirements specs, alright? Yeah. You will receive some information by emails, as usual. Thanks for coming today. Okay. Thanks. Thanks. Alright.",
+    "sentences": [
+        {
+            "displayText": "Okay.",
+            "speakerFaceId": "0",
+            "sentenceId": 0,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Good morning everybody.",
+            "speakerFaceId": "0",
+            "sentenceId": 1,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Good morning.",
+            "speakerFaceId": "2",
+            "sentenceId": 2,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Everybody is not ready.",
+            "speakerFaceId": "0",
+            "sentenceId": 3,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Almost.",
+            "speakerFaceId": "1",
+            "sentenceId": 4,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Ready.",
+            "speakerFaceId": "1",
+            "sentenceId": 5,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Alright.",
+            "speakerFaceId": "0",
+            "sentenceId": 6,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Okay, let's go.",
+            "speakerFaceId": "0",
+            "sentenceId": 7,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So, we're here today to have our first kick-off meeting about this new project we're going to talk about in a few minutes.",
+            "speakerFaceId": "0",
+            "sentenceId": 8,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So I will be Sebastian the Project Manager.",
+            "speakerFaceId": "0",
+            "sentenceId": 9,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "You are the Okay.",
+            "speakerFaceId": "0",
+            "sentenceId": 10,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "I'm Michael.",
+            "speakerFaceId": "1",
+            "sentenceId": 11,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "I'm the user interface designer.",
+            "speakerFaceId": "1",
+            "sentenceId": 12,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Hi I'm Guillermo.",
+            "speakerFaceId": "3",
+            "sentenceId": 13,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "I'm the Marketing Expert.",
+            "speakerFaceId": "3",
+            "sentenceId": 14,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "And I am Hemant, the industrial designer.",
+            "speakerFaceId": "2",
+            "sentenceId": 15,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Okay, very good.",
+            "speakerFaceId": "0",
+            "sentenceId": 16,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Thanks for being here.",
+            "speakerFaceId": "0",
+            "sentenceId": 17,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So let's have a look to the agenda.",
+            "speakerFaceId": "0",
+            "sentenceId": 18,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So, we are going to go through this agenda and mainly first to make to to be used to the tools available in this nice and smart meeting room we have here.",
+            "speakerFaceId": "0",
+            "sentenceId": 19,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Then we'll go to the plans for project and have general discussions about it.",
+            "speakerFaceId": "0",
+            "sentenceId": 20,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So, the goal of this project is to developed a new remote control.",
+            "speakerFaceId": "0",
+            "sentenceId": 21,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "It should be original, trendy, and also user friendly.",
+            "speakerFaceId": "0",
+            "sentenceId": 22,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "As usual we will follow the project method that we are using in our company.",
+            "speakerFaceId": "0",
+            "sentenceId": 23,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "It is in three step as.",
+            "speakerFaceId": "0",
+            "sentenceId": 24,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "First the functional design.",
+            "speakerFaceId": "0",
+            "sentenceId": 25,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "The second's a conceptual design, and then the detailed design.",
+            "speakerFaceId": "0",
+            "sentenceId": 26,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "During each step of each design you will work separately, individually on your specific tasks and will we will meet to discuss and take decisions about what you've you did and what we will do next.",
+            "speakerFaceId": "0",
+            "sentenceId": 27,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So first, we have to train ourself with all the tools availables in this nice meeting room and particularly the white board so we are going to go through the white board and take some notes or do some drawings.",
+            "speakerFaceId": "0",
+            "sentenceId": 28,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So who want to start?",
+            "speakerFaceId": "0",
+            "sentenceId": 29,
+            "question": {
+                "possible": true,
+                "meaningful": true,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [
+                    30,
+                    32
+                ],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false,
+                "meta": {
+                    "answerable": true,
+                    "multispan": true,
+                    "multispeaker": false
+                }
+            }
+        },
+        {
+            "displayText": "Ah if no one else wants to.",
+            "speakerFaceId": "1",
+            "sentenceId": 30,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mister.",
+            "speakerFaceId": "0",
+            "sentenceId": 31,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Okay so, want me to draw my favourite animal.",
+            "speakerFaceId": "1",
+            "sentenceId": 32,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Let's see.",
+            "speakerFaceId": "1",
+            "sentenceId": 33,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "I don't really have a favourite animal, but I think I have one in mind, so I'm gonna about the spider because you can actually draw it pretty well in the corner of a white board.",
+            "speakerFaceId": "1",
+            "sentenceId": 34,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "You have one in mind?",
+            "speakerFaceId": "0",
+            "sentenceId": 35,
+            "question": {
+                "possible": true,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false,
+                "meta": {
+                    "answerable": false,
+                    "multispan": false,
+                    "multispeaker": false
+                }
+            }
+        },
+        {
+            "displayText": "A spider lives in a web and it has eight legs, and it can move all about the web in two dimensions.",
+            "speakerFaceId": "1",
+            "sentenceId": 36,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Unless it's a three dimensional web which they have sometimes.",
+            "speakerFaceId": "1",
+            "sentenceId": 37,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "There are some spiders that live in like that have kind of a big ball of a web.",
+            "speakerFaceId": "1",
+            "sentenceId": 38,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "And the other thing is some spiders can actually fly like they have they let out a stream of the web building material but it acts like a parachute so they can actually kind of go and build a new web somewhere else.",
+            "speakerFaceId": "1",
+            "sentenceId": 39,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So I think they did this in Charlotte's Web that movie that little it's actually a book first but at the end all the spiders kinda flew away.",
+            "speakerFaceId": "1",
+            "sentenceId": 40,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So, that's my animal.",
+            "speakerFaceId": "1",
+            "sentenceId": 41,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Okay.",
+            "speakerFaceId": "0",
+            "sentenceId": 42,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Thank you.",
+            "speakerFaceId": "0",
+            "sentenceId": 43,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Very interesting.",
+            "speakerFaceId": "0",
+            "sentenceId": 44,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Guillermo you want to?",
+            "speakerFaceId": "0",
+            "sentenceId": 45,
+            "question": {
+                "possible": true,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false,
+                "meta": {
+                    "answerable": false,
+                    "multispan": false,
+                    "multispeaker": false
+                }
+            }
+        },
+        {
+            "displayText": "Kay I dunno why, but when I was a child I wanted to be a panther not a pink panther, or maybe yes.",
+            "speakerFaceId": "3",
+            "sentenceId": 46,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "But don't you think it's very difficult to draw a panther?",
+            "speakerFaceId": "2",
+            "sentenceId": 47,
+            "question": {
+                "possible": true,
+                "meaningful": true,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [
+                    49
+                ],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false,
+                "meta": {
+                    "answerable": true,
+                    "multispan": false,
+                    "multispeaker": false
+                }
+            }
+        },
+        {
+            "displayText": "So bad I don't like it.",
+            "speakerFaceId": "2",
+            "sentenceId": 48,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "It would be very funny for us.",
+            "speakerFaceId": "0",
+            "sentenceId": 49,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Oh.",
+            "speakerFaceId": "0",
+            "sentenceId": 50,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Okay it's a friendly panther.",
+            "speakerFaceId": "3",
+            "sentenceId": 51,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Maybe it's happy 'cause it just ate someone.",
+            "speakerFaceId": "1",
+            "sentenceId": 52,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Maybe.",
+            "speakerFaceId": "3",
+            "sentenceId": 53,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Um.",
+            "speakerFaceId": "3",
+            "sentenceId": 54,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Actually, honestly I I dunno what's his it's behaviour, dunno if it's the male who hunts or it's the female I I have watched that lions didn't hunt it's the female lions who hunt, so but I like it because it's fast, and it's black as well, so it can hide itself very easily and it's it looks like powerful, strong, I dunno.",
+            "speakerFaceId": "3",
+            "sentenceId": 55,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "I I watch a a film about a black panther when I was a child and I was in that age when everything was shocking me a lot.",
+            "speakerFaceId": "3",
+            "sentenceId": 56,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Okay.",
+            "speakerFaceId": "0",
+            "sentenceId": 57,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Thank you.",
+            "speakerFaceId": "0",
+            "sentenceId": 58,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Okay.",
+            "speakerFaceId": "3",
+            "sentenceId": 59,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Hemant.",
+            "speakerFaceId": "0",
+            "sentenceId": 60,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Sure.",
+            "speakerFaceId": "2",
+            "sentenceId": 61,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So you don't like pink panthers?",
+            "speakerFaceId": "1",
+            "sentenceId": 62,
+            "question": {
+                "possible": true,
+                "meaningful": true,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [
+                    63
+                ],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false,
+                "meta": {
+                    "answerable": true,
+                    "multispan": false,
+                    "multispeaker": false
+                }
+            }
+        },
+        {
+            "displayText": "I like it.",
+            "speakerFaceId": "3",
+            "sentenceId": 63,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Thanks.",
+            "speakerFaceId": "2",
+            "sentenceId": 64,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "This lapel is coming out once in a while.",
+            "speakerFaceId": "2",
+            "sentenceId": 65,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "It's not very strong.",
+            "speakerFaceId": "2",
+            "sentenceId": 66,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Okay.",
+            "speakerFaceId": "2",
+            "sentenceId": 67,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So, not the favourite animal, but I think I'll draw elephant.",
+            "speakerFaceId": "2",
+            "sentenceId": 68,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "I'll try to draw elephant.",
+            "speakerFaceId": "2",
+            "sentenceId": 69,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "It's a problem.",
+            "speakerFaceId": "2",
+            "sentenceId": 70,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Okay, thanks.",
+            "speakerFaceId": "2",
+            "sentenceId": 71,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Okay so, elephant goes like this, and then it has four feet.",
+            "speakerFaceId": "2",
+            "sentenceId": 72,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "I don't know whether there's any there should be any distance or not, but I think this is the easiest.",
+            "speakerFaceId": "2",
+            "sentenceId": 73,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "And then we have it's trunk.",
+            "speakerFaceId": "2",
+            "sentenceId": 74,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "And yep something like this.",
+            "speakerFaceId": "2",
+            "sentenceId": 75,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "An eye, cute.",
+            "speakerFaceId": "2",
+            "sentenceId": 76,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "And sometimes they have a hump.",
+            "speakerFaceId": "2",
+            "sentenceId": 77,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Poor elephant.",
+            "speakerFaceId": "0",
+            "sentenceId": 78,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "It seems that elephants are pretty friendly and they have a different way of walking.",
+            "speakerFaceId": "2",
+            "sentenceId": 79,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So when they walk, wherever they are going to put their first feet, the second feet will always be.",
+            "speakerFaceId": "2",
+            "sentenceId": 80,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "When they'll come to that position the second, the third feet will be there.",
+            "speakerFaceId": "2",
+            "sentenceId": 81,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "That's the way they walk.",
+            "speakerFaceId": "2",
+            "sentenceId": 82,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "And that's very peculiar about them.",
+            "speakerFaceId": "2",
+            "sentenceId": 83,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "None of the other animals walk like this.",
+            "speakerFaceId": "2",
+            "sentenceId": 84,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "And they are very useful to human beings.",
+            "speakerFaceId": "2",
+            "sentenceId": 85,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "At least few hundred years ago when there was no means of transportations or something, or when they had to carry huge loads from one place to another, elephants were very useful.",
+            "speakerFaceId": "2",
+            "sentenceId": 86,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "And they are found in usually the warm countries.",
+            "speakerFaceId": "2",
+            "sentenceId": 87,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "And they are the biggest terrestrial animal.",
+            "speakerFaceId": "2",
+            "sentenceId": 88,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "That's what I know about them.",
+            "speakerFaceId": "2",
+            "sentenceId": 89,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So, that's what I wanted to tell about elephants.",
+            "speakerFaceId": "2",
+            "sentenceId": 90,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Is this an Indian or an African elephant, 'cause you haven't drawn the ears?",
+            "speakerFaceId": "1",
+            "sentenceId": 91,
+            "question": {
+                "possible": true,
+                "meaningful": true,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [
+                    92,
+                    93
+                ],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false,
+                "meta": {
+                    "answerable": true,
+                    "multispan": false,
+                    "multispeaker": false
+                }
+            }
+        },
+        {
+            "displayText": "They are very different, Indian and African elephants.",
+            "speakerFaceId": "2",
+            "sentenceId": 92,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So Indian elephant is having one bump, and the African have two.",
+            "speakerFaceId": "2",
+            "sentenceId": 93,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "And then there's a difference in the trunk of the animals, these elephants who are Indian and So at some for some elephants it's the trunk is having one Do we have some message there?",
+            "speakerFaceId": "2",
+            "sentenceId": 94,
+            "question": {
+                "possible": true,
+                "meaningful": true,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false,
+                "meta": {
+                    "answerable": false,
+                    "multispan": false,
+                    "multispeaker": false
+                }
+            }
+        },
+        {
+            "displayText": "Yes.",
+            "speakerFaceId": "0",
+            "sentenceId": 95,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "I have to catch you, sorry.",
+            "speakerFaceId": "0",
+            "sentenceId": 96,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Wind up?",
+            "speakerFaceId": "2",
+            "sentenceId": 97,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Okay, some other time.",
+            "speakerFaceId": "2",
+            "sentenceId": 98,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "We have to to go through the meeting.",
+            "speakerFaceId": "0",
+            "sentenceId": 99,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Okay.",
+            "speakerFaceId": "1",
+            "sentenceId": 100,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Thank you.",
+            "speakerFaceId": "2",
+            "sentenceId": 101,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Thank you.",
+            "speakerFaceId": "0",
+            "sentenceId": 102,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "We can discuss that off-line.",
+            "speakerFaceId": "1",
+            "sentenceId": 103,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "We'll discuss a fly or do we'll do another meeting on elephants.",
+            "speakerFaceId": "0",
+            "sentenceId": 104,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Thanks.",
+            "speakerFaceId": "2",
+            "sentenceId": 105,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So another important part of the project is about money, and about so about finances.",
+            "speakerFaceId": "0",
+            "sentenceId": 106,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So we should target selling price of twenty-five Euro for this remote control we have which would generate a profit of fifty million Euros, okay.",
+            "speakerFaceId": "0",
+            "sentenceId": 107,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "And we should target the an international market.",
+            "speakerFaceId": "0",
+            "sentenceId": 108,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So could I just ask one question, is this a stand-alone unit that we're gonna be selling?",
+            "speakerFaceId": "1",
+            "sentenceId": 109,
+            "question": {
+                "possible": true,
+                "meaningful": true,
+                "questionContext": [],
+                "combinedQuestion": [
+                    109,
+                    110
+                ],
+                "answerSpan": [
+                    111,
+                    113
+                ],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false,
+                "meta": {
+                    "answerable": true,
+                    "multispan": true,
+                    "multispeaker": false
+                }
+            }
+        },
+        {
+            "displayText": "So it's gonna be you already have a TV but you're buying an extra remote control for it or something?",
+            "speakerFaceId": "1",
+            "sentenceId": 110,
+            "question": {
+                "possible": true,
+                "meaningful": true,
+                "questionContext": [],
+                "combinedQuestion": [
+                    109,
+                    110
+                ],
+                "answerSpan": [
+                    111,
+                    113
+                ],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false,
+                "meta": {
+                    "answerable": true,
+                    "multispan": true,
+                    "multispeaker": false
+                }
+            }
+        },
+        {
+            "displayText": "This is the next topic we have to discuss exactly, so let's go to it.",
+            "speakerFaceId": "0",
+            "sentenceId": 111,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Okay, alright.",
+            "speakerFaceId": "1",
+            "sentenceId": 112,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So we should decide which kind of remote control we want to we want to go.",
+            "speakerFaceId": "0",
+            "sentenceId": 113,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Should should it be specific remote control to some specific device?",
+            "speakerFaceId": "0",
+            "sentenceId": 114,
+            "question": {
+                "possible": true,
+                "meaningful": true,
+                "questionContext": [],
+                "combinedQuestion": [
+                    114,
+                    115
+                ],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false,
+                "meta": {
+                    "answerable": false,
+                    "multispan": false,
+                    "multispeaker": false
+                }
+            }
+        },
+        {
+            "displayText": "Should it be a universal one?",
+            "speakerFaceId": "0",
+            "sentenceId": 115,
+            "question": {
+                "possible": true,
+                "meaningful": true,
+                "questionContext": [],
+                "combinedQuestion": [
+                    114,
+                    115
+                ],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false,
+                "meta": {
+                    "answerable": false,
+                    "multispan": false,
+                    "multispeaker": false
+                }
+            }
+        },
+        {
+            "displayText": "And etcetera.",
+            "speakerFaceId": "0",
+            "sentenceId": 116,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So I'm waiting for your inputs very quickly because we have only three three minutes to go.",
+            "speakerFaceId": "0",
+            "sentenceId": 117,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Okay so, it seems the first thing that they've kinda specified is the price based on how much profit we wanna make, which seems to a kind of a little strange if we don't know what the product is yet, but I guess if that's the requirement that we need to design the product to actually fit that price bracket I guess we're gonna need to find out what's actually what people are willing to pay for what kind of product they're expecting for twenty-five Euro because it seems quite a lot for a remote control.",
+            "speakerFaceId": "1",
+            "sentenceId": 118,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Okay.",
+            "speakerFaceId": "0",
+            "sentenceId": 119,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Okay I think this is more a job to our market person.",
+            "speakerFaceId": "0",
+            "sentenceId": 120,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Marketing person.",
+            "speakerFaceId": "2",
+            "sentenceId": 121,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm-hmm.",
+            "speakerFaceId": "2",
+            "sentenceId": 122,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So it should be the topic maybe of the next meeting just to have an overview of this and in which direction we should go.",
+            "speakerFaceId": "0",
+            "sentenceId": 123,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So we need to close the meeting.",
+            "speakerFaceId": "0",
+            "sentenceId": 124,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "We'll have a new meeting soon so the work every of you have to do.",
+            "speakerFaceId": "0",
+            "sentenceId": 125,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So on the working design, you have to work on the technical functions, and you have to work on user requirements specs, alright?",
+            "speakerFaceId": "0",
+            "sentenceId": 126,
+            "question": {
+                "possible": true,
+                "meaningful": true,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [
+                    127,
+                    128
+                ],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false,
+                "meta": {
+                    "answerable": true,
+                    "multispan": false,
+                    "multispeaker": true
+                }
+            }
+        },
+        {
+            "displayText": "Yeah.",
+            "speakerFaceId": "3",
+            "sentenceId": 127,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "You will receive some information by emails, as usual.",
+            "speakerFaceId": "0",
+            "sentenceId": 128,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Thanks for coming today.",
+            "speakerFaceId": "0",
+            "sentenceId": 129,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Okay.",
+            "speakerFaceId": "1",
+            "sentenceId": 130,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Thanks.",
+            "speakerFaceId": "2",
+            "sentenceId": 131,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Thanks.",
+            "speakerFaceId": "0",
+            "sentenceId": 132,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Alright.",
+            "speakerFaceId": "1",
+            "sentenceId": 133,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        }
+    ]
+}

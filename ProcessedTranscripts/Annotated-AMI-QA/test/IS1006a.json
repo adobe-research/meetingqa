@@ -1,0 +1,4766 @@
+{
+    "displayText": "Oops. So, hello everyone. We're here to have a kick-off meeting for the beginning of new project remote control for the design for a new remote control. I'm the Project Manager Christa Pavlov and okay let's begin. So I'm first going to do an opening then we get used to one anothers and we speak about this tool we're going to design and try to make a project plan, some discussion and then we talk of the next meeting. So we want to do a new remote control. It has to be original, trendy and user friendly. I think the important points we have to talk about are it's conceptual design, and detailed design. And for that we're going all to work individually and then have meeting during the whole day. So let's try the whiteboard. Wow. So any of you who want to go. For favourite animals. It's gonna be not my favourite one but the one I can draw. And it's gonna be you'll try to guess. Wow. Wow. Complex. Huh? A cat. No. No. No. Darn. Uh. A rabbit. Yes, that's a rabbit. A what? That's my favourite one. A rabbit. A rabbit, where is the carrot? Rabbit. Okay mm-hmm. That's it. You want to go? I am not very good at this kind of stuff. Hmm. My favourite animal is Guess. Wow. You Is the white okay. A human ah. A human, yay. It's a very complex animal and. No. Characteristics of this this animal is dangerous. Mm I think you're supposed to. Hmm. I guess you can. Wow. That's cobra. Ah, a kind of snake? Cobra? Exactly. Not really. Small cobra. No, it just small cobra. Uh-huh. Is that a worm? It's quite recognisable. Or Christa Pavlov Mm. What about you Christa? Chris. Christa. A fish. Mm. Hmm. Smiling fish. Smile fish. A smiling fish. Mm-hmm. Mm-hmm. Okay. So, whiteboard is working? Yeah. Yeah. Good. Next. Next. Let's talk about money. Just try to guess who is a User Interface Designer. According to the drawings. Not me. You're. Okay. So. So. Twenty five Euro for a remote control. Mm that's the aim for the price for the remote control. Okay. We aim to do this profit. Tis big number. On the international market. Yeah. Mm-hmm. We're to sell two million then. Wow. Mm-hmm. Mm for a production cost of mm twelve fifty Euros maximum. Kay. So any of you have experience in remote controls? Yes, we have plenty at home. Mm. In fact, my daughter likes remote controls. So that could be a great application. Mm. To eat? To eat? Mainly, and to break. Remote controls children proof. Mm-hmm. Mm mm-hmm. Yeah. Yeah. Children proof. Hmm. So she likes buttons which make click, so it has to click. Okay. So they have to be waterproof maybe? Baby proof but mainly it has to be very robust because even if she's not very tall she's high enough so that when she throw it away So it has to be very robust. Cause they eat she ate it. Mm-hmm. Ah. Okay, unbreakable. Unbreakable. Uh-huh. We have some child lock or something. Mm-hmm. Mm-hmm. And it has to be nice looking, maybe colourful, because nobody has colourful remote control, they're always black, but this one could be dunno, purple or. Yeah. Colourful, mm. Colourful? That's not practical. Yeah. No, that's a good idea. It's always black or. Mm mm-mm. No. But okay, just but it's monochrome it's not like Otherwise you will never find it. Yeah. Yeah. No, because you think, why not. Yeah. One colour. Yeah. Even we can change colours, no? The the phones and these things we. The phones, it could change colours. Cool. Mm-hmm. At least for children one colour and. But without any extremes not of this size, not too large. Yeah. Good. Good idea. And it should be really small and. Small also? Don't you think No not too much buttons or mm. Not so big. Not too much buttons and. Should it be, these remote controls where they are what they call a universal remote control so you can decide that now it's the remote control for the television, then it's the remote control for the sound system, or for your refrigerator whatever I dunno if it's Or if we should have a targeted remote control. Mm-hmm. Yeah. That's Okay. So, I think there's So you you think it's better if small than bigger. So colour, robustness, easy to use, size, matters. Yeah. Colour, size, maybe at least not bigger than this I guess. Mm. No, not too small. At least it should hold in your hand properly. Okay. Yeah. Hmm. A palm sized. Yeah. Mm. Just to hold it. Okay. But what would be different from the others? I dunno if at least the colour would be different. Maybe we can change the colours that at least the frame. Mm. So then it depends Mm you can easily remove the frame. Mm. I think one thing important for instance in this remote control if you remember when people use it they're they never find a good button in the right place. Mm-hmm. For some reason they they they click the off button when they want to use the So there's a problem in the design of that kind of remote control somehow, I dunno. Yeah. Yeah. Mm. So, some kind of idea with cellular phone with a screen that will tell you what no. No, no screens, it's too complex. Okay. Mm. Too expensive for twelve Euro? Too expensive. And maybe not too expensive, it's not my problem, but okay. And too expensive. Ah. But no screens on remote controls. Mm-hmm. Mm. I thought it could be only a screen which would change depending on the use or even the user. So I prefer to have the off button at the top right, so I would have my own design of the remote control because it's in fact just a a full touch screen remote control, if you if you like. Mm-hmm. Yeah. Hmm. It's it's two types no? I don't know if it makes sense, but for instance, mm. Mm-mm. People are right handed or left handed because I am left handed say if you're right handed you use this or so your switch on and off should be on. Mm-hmm, mm-hmm. Mm-hmm. Mm. Mm mm mm. So adaptable something. Adaptable. Maybe, if it's possible. Alright, good, how many actions do we need to implement in it? Mm. Maybe I think even we can keep two switches and then we can only make one working. On off? Yeah. Suppose here we can make two switches and if I'm left-hander I use this switch to follow the main operations. If it's less than three then we can make it a three mental states, what we can just make it controlled by a brain? Two. Three buttons you mean? Three option. Ah. Yeah. Yeah. Um. Mm-hmm. Mm-hmm, sure. Maybe if it's more, if there is a software inside that ask you three. Mm-hmm. If we want a universal remote control that we like we say before it may need more than three mm three button, three mm possibilities. Sure, sure. More than three actions that you may want to do at a given time. Mm. Yeah. But for standard actions you usually what do you do, you change channels, you adjust volume, and nothing else. But for instance when you change channels you can just go to the next one or go to channel twenty five. Mm. Yeah. Mm. And that's already more complex to go to channel twenty five. Mm-hmm. You do this? Yeah. No. I usually just change channels. Because I'm only using three or four channels but And then back to the one I was before, so there's whichever it was. Yeah. But they keep generally their slash slash this thing and then the dash dash and then you can only have one bit. Yeah. I want to go to twenty five, and then to ten, uh-huh mm. Dash. Also that would be cool. Uh-huh. You can. Go back button is good. Yeah. Yeah. We had that in other countries. I once had it. The previous button is. Mm. Even the history so you could undo previous of the previous. Mm-hmm. Okay. History. Then ah you could also record your sequence of actions, that becomes more complex, but you could look at what the other people have used there or remote controls. Uh. Yeah. Which channels the viewer Marketing. Mm-mm. Maybe it's a Okay. Okay. So I think we have full of idea. We're going to meet again in thirty minutes and I want you to mm work on these ideas and try to make the ones, to decide what are the ones important and what are the one that we don't want. And maybe more in the technical parts what do we want to do. Um. So your personal coach will send you some instruction for this thirty minutes. So what does ME means? ME the user requirements? Or that's for us? Market Expert. Mm. That's me. Of course the user requirement specifications, uh-huh. Mm-hmm. Okay. Mm okay. I'll think of that. So. So? I think that's all. Meeting's over? Great. Yeah. Okay. Thank you. Thank you. Thank you everybody. See you in thirty minutes.",
+    "sentences": [
+        {
+            "displayText": "Oops.",
+            "speakerFaceId": "1",
+            "sentenceId": 0,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So, hello everyone.",
+            "speakerFaceId": "0",
+            "sentenceId": 1,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "We're here to have a kick-off meeting for the beginning of new project remote control for the design for a new remote control.",
+            "speakerFaceId": "0",
+            "sentenceId": 2,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "I'm the Project Manager Christa Pavlov and okay let's begin.",
+            "speakerFaceId": "0",
+            "sentenceId": 3,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So I'm first going to do an opening then we get used to one anothers and we speak about this tool we're going to design and try to make a project plan, some discussion and then we talk of the next meeting.",
+            "speakerFaceId": "0",
+            "sentenceId": 4,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So we want to do a new remote control.",
+            "speakerFaceId": "0",
+            "sentenceId": 5,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "It has to be original, trendy and user friendly.",
+            "speakerFaceId": "0",
+            "sentenceId": 6,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "I think the important points we have to talk about are it's conceptual design, and detailed design.",
+            "speakerFaceId": "0",
+            "sentenceId": 7,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "And for that we're going all to work individually and then have meeting during the whole day.",
+            "speakerFaceId": "0",
+            "sentenceId": 8,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So let's try the whiteboard.",
+            "speakerFaceId": "0",
+            "sentenceId": 9,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Wow.",
+            "speakerFaceId": "3",
+            "sentenceId": 10,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So any of you who want to go.",
+            "speakerFaceId": "0",
+            "sentenceId": 11,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "For favourite animals.",
+            "speakerFaceId": "1",
+            "sentenceId": 12,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "It's gonna be not my favourite one but the one I can draw.",
+            "speakerFaceId": "1",
+            "sentenceId": 13,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "And it's gonna be you'll try to guess.",
+            "speakerFaceId": "1",
+            "sentenceId": 14,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Wow.",
+            "speakerFaceId": "3",
+            "sentenceId": 15,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Wow.",
+            "speakerFaceId": "0",
+            "sentenceId": 16,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Complex.",
+            "speakerFaceId": "3",
+            "sentenceId": 17,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Huh?",
+            "speakerFaceId": "3",
+            "sentenceId": 18,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "A cat.",
+            "speakerFaceId": "3",
+            "sentenceId": 19,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "No.",
+            "speakerFaceId": "2",
+            "sentenceId": 20,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "No.",
+            "speakerFaceId": "1",
+            "sentenceId": 21,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "No.",
+            "speakerFaceId": "3",
+            "sentenceId": 22,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Darn.",
+            "speakerFaceId": "3",
+            "sentenceId": 23,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Uh.",
+            "speakerFaceId": "3",
+            "sentenceId": 24,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "A rabbit.",
+            "speakerFaceId": "0",
+            "sentenceId": 25,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Yes, that's a rabbit.",
+            "speakerFaceId": "1",
+            "sentenceId": 26,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "A what?",
+            "speakerFaceId": "3",
+            "sentenceId": 27,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "That's my favourite one.",
+            "speakerFaceId": "1",
+            "sentenceId": 28,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "A rabbit.",
+            "speakerFaceId": "0",
+            "sentenceId": 29,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "A rabbit, where is the carrot?",
+            "speakerFaceId": "3",
+            "sentenceId": 30,
+            "question": {
+                "possible": true,
+                "meaningful": true,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false,
+                "meta": {
+                    "answerable": false,
+                    "multispan": false,
+                    "multispeaker": false
+                }
+            }
+        },
+        {
+            "displayText": "Rabbit.",
+            "speakerFaceId": "2",
+            "sentenceId": 31,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Okay mm-hmm.",
+            "speakerFaceId": "3",
+            "sentenceId": 32,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "That's it.",
+            "speakerFaceId": "1",
+            "sentenceId": 33,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "You want to go?",
+            "speakerFaceId": "0",
+            "sentenceId": 34,
+            "question": {
+                "possible": true,
+                "meaningful": true,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [
+                    35
+                ],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false,
+                "meta": {
+                    "answerable": true,
+                    "multispan": false,
+                    "multispeaker": false
+                }
+            }
+        },
+        {
+            "displayText": "I am not very good at this kind of stuff.",
+            "speakerFaceId": "3",
+            "sentenceId": 35,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Hmm.",
+            "speakerFaceId": "1",
+            "sentenceId": 36,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "My favourite animal is Guess.",
+            "speakerFaceId": "3",
+            "sentenceId": 37,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Wow.",
+            "speakerFaceId": "1",
+            "sentenceId": 38,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "You Is the white okay.",
+            "speakerFaceId": "2",
+            "sentenceId": 39,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "A human ah.",
+            "speakerFaceId": "0",
+            "sentenceId": 40,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "A human, yay.",
+            "speakerFaceId": "3",
+            "sentenceId": 41,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "It's a very complex animal and.",
+            "speakerFaceId": "3",
+            "sentenceId": 42,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "No.",
+            "speakerFaceId": "1",
+            "sentenceId": 43,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Characteristics of this this animal is dangerous.",
+            "speakerFaceId": "3",
+            "sentenceId": 44,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm I think you're supposed to.",
+            "speakerFaceId": "0",
+            "sentenceId": 45,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Hmm.",
+            "speakerFaceId": "0",
+            "sentenceId": 46,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "I guess you can.",
+            "speakerFaceId": "2",
+            "sentenceId": 47,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Wow.",
+            "speakerFaceId": "1",
+            "sentenceId": 48,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "That's cobra.",
+            "speakerFaceId": "1",
+            "sentenceId": 49,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Ah, a kind of snake?",
+            "speakerFaceId": "3",
+            "sentenceId": 50,
+            "question": {
+                "possible": true,
+                "meaningful": true,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [
+                    51,
+                    53,
+                    54,
+                    55
+                ],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false,
+                "meta": {
+                    "answerable": true,
+                    "multispan": true,
+                    "multispeaker": true
+                }
+            }
+        },
+        {
+            "displayText": "Cobra?",
+            "speakerFaceId": "3",
+            "sentenceId": 51,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Exactly.",
+            "speakerFaceId": "3",
+            "sentenceId": 52,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Not really.",
+            "speakerFaceId": "2",
+            "sentenceId": 53,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Small cobra.",
+            "speakerFaceId": "2",
+            "sentenceId": 54,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "No, it just small cobra.",
+            "speakerFaceId": "1",
+            "sentenceId": 55,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Uh-huh.",
+            "speakerFaceId": "3",
+            "sentenceId": 56,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Is that a worm?",
+            "speakerFaceId": "0",
+            "sentenceId": 57,
+            "question": {
+                "possible": true,
+                "meaningful": true,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false,
+                "meta": {
+                    "answerable": false,
+                    "multispan": false,
+                    "multispeaker": false
+                }
+            }
+        },
+        {
+            "displayText": "It's quite recognisable.",
+            "speakerFaceId": "1",
+            "sentenceId": 58,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Or Christa Pavlov Mm.",
+            "speakerFaceId": "0",
+            "sentenceId": 59,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "What about you Christa?",
+            "speakerFaceId": "3",
+            "sentenceId": 60,
+            "question": {
+                "possible": true,
+                "meaningful": true,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [
+                    63,
+                    66,
+                    67,
+                    68
+                ],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false,
+                "meta": {
+                    "answerable": true,
+                    "multispan": true,
+                    "multispeaker": true
+                }
+            }
+        },
+        {
+            "displayText": "Chris.",
+            "speakerFaceId": "2",
+            "sentenceId": 61,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Christa.",
+            "speakerFaceId": "1",
+            "sentenceId": 62,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "A fish.",
+            "speakerFaceId": "3",
+            "sentenceId": 63,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm.",
+            "speakerFaceId": "2",
+            "sentenceId": 64,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Hmm.",
+            "speakerFaceId": "1",
+            "sentenceId": 65,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Smiling fish.",
+            "speakerFaceId": "0",
+            "sentenceId": 66,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Smile fish.",
+            "speakerFaceId": "2",
+            "sentenceId": 67,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "A smiling fish.",
+            "speakerFaceId": "3",
+            "sentenceId": 68,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm-hmm.",
+            "speakerFaceId": "3",
+            "sentenceId": 69,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm-hmm.",
+            "speakerFaceId": "0",
+            "sentenceId": 70,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Okay.",
+            "speakerFaceId": "1",
+            "sentenceId": 71,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So, whiteboard is working?",
+            "speakerFaceId": "3",
+            "sentenceId": 72,
+            "question": {
+                "possible": true,
+                "meaningful": true,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [
+                    73,
+                    74
+                ],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false,
+                "meta": {
+                    "answerable": true,
+                    "multispan": false,
+                    "multispeaker": true
+                }
+            }
+        },
+        {
+            "displayText": "Yeah.",
+            "speakerFaceId": "2",
+            "sentenceId": 73,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Yeah.",
+            "speakerFaceId": "0",
+            "sentenceId": 74,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Good.",
+            "speakerFaceId": "3",
+            "sentenceId": 75,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Next.",
+            "speakerFaceId": "3",
+            "sentenceId": 76,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Next.",
+            "speakerFaceId": "0",
+            "sentenceId": 77,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Let's talk about money.",
+            "speakerFaceId": "0",
+            "sentenceId": 78,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Just try to guess who is a User Interface Designer.",
+            "speakerFaceId": "1",
+            "sentenceId": 79,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "According to the drawings.",
+            "speakerFaceId": "1",
+            "sentenceId": 80,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Not me.",
+            "speakerFaceId": "3",
+            "sentenceId": 81,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "You're.",
+            "speakerFaceId": "2",
+            "sentenceId": 82,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Okay.",
+            "speakerFaceId": "1",
+            "sentenceId": 83,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So.",
+            "speakerFaceId": "3",
+            "sentenceId": 84,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So.",
+            "speakerFaceId": "0",
+            "sentenceId": 85,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Twenty five Euro for a remote control.",
+            "speakerFaceId": "3",
+            "sentenceId": 86,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm that's the aim for the price for the remote control.",
+            "speakerFaceId": "0",
+            "sentenceId": 87,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Okay.",
+            "speakerFaceId": "3",
+            "sentenceId": 88,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "We aim to do this profit.",
+            "speakerFaceId": "0",
+            "sentenceId": 89,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Tis big number.",
+            "speakerFaceId": "3",
+            "sentenceId": 90,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "On the international market.",
+            "speakerFaceId": "1",
+            "sentenceId": 91,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Yeah.",
+            "speakerFaceId": "0",
+            "sentenceId": 92,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm-hmm.",
+            "speakerFaceId": "0",
+            "sentenceId": 93,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "We're to sell two million then.",
+            "speakerFaceId": "2",
+            "sentenceId": 94,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Wow.",
+            "speakerFaceId": "1",
+            "sentenceId": 95,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm-hmm.",
+            "speakerFaceId": "3",
+            "sentenceId": 96,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm for a production cost of mm twelve fifty Euros maximum.",
+            "speakerFaceId": "0",
+            "sentenceId": 97,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Kay.",
+            "speakerFaceId": "0",
+            "sentenceId": 98,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So any of you have experience in remote controls?",
+            "speakerFaceId": "0",
+            "sentenceId": 99,
+            "question": {
+                "possible": true,
+                "meaningful": true,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [
+                    100,
+                    102,
+                    103
+                ],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false,
+                "meta": {
+                    "answerable": true,
+                    "multispan": true,
+                    "multispeaker": true
+                }
+            }
+        },
+        {
+            "displayText": "Yes, we have plenty at home.",
+            "speakerFaceId": "3",
+            "sentenceId": 100,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm.",
+            "speakerFaceId": "2",
+            "sentenceId": 101,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "In fact, my daughter likes remote controls.",
+            "speakerFaceId": "3",
+            "sentenceId": 102,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So that could be a great application.",
+            "speakerFaceId": "0",
+            "sentenceId": 103,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm.",
+            "speakerFaceId": "1",
+            "sentenceId": 104,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "To eat?",
+            "speakerFaceId": "1",
+            "sentenceId": 105,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "To eat?",
+            "speakerFaceId": "3",
+            "sentenceId": 106,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mainly, and to break.",
+            "speakerFaceId": "3",
+            "sentenceId": 107,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Remote controls children proof.",
+            "speakerFaceId": "0",
+            "sentenceId": 108,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm-hmm.",
+            "speakerFaceId": "3",
+            "sentenceId": 109,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm mm-hmm.",
+            "speakerFaceId": "0",
+            "sentenceId": 110,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Yeah.",
+            "speakerFaceId": "3",
+            "sentenceId": 111,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Yeah.",
+            "speakerFaceId": "3",
+            "sentenceId": 112,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Children proof.",
+            "speakerFaceId": "1",
+            "sentenceId": 113,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Hmm.",
+            "speakerFaceId": "1",
+            "sentenceId": 114,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So she likes buttons which make click, so it has to click.",
+            "speakerFaceId": "3",
+            "sentenceId": 115,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Okay.",
+            "speakerFaceId": "0",
+            "sentenceId": 116,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So they have to be waterproof maybe?",
+            "speakerFaceId": "0",
+            "sentenceId": 117,
+            "question": {
+                "possible": true,
+                "meaningful": true,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [
+                    118,
+                    119
+                ],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false,
+                "meta": {
+                    "answerable": true,
+                    "multispan": false,
+                    "multispeaker": true
+                }
+            }
+        },
+        {
+            "displayText": "Baby proof but mainly it has to be very robust because even if she's not very tall she's high enough so that when she throw it away So it has to be very robust.",
+            "speakerFaceId": "3",
+            "sentenceId": 118,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Cause they eat she ate it.",
+            "speakerFaceId": "0",
+            "sentenceId": 119,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm-hmm.",
+            "speakerFaceId": "0",
+            "sentenceId": 120,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Ah.",
+            "speakerFaceId": "2",
+            "sentenceId": 121,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Okay, unbreakable.",
+            "speakerFaceId": "1",
+            "sentenceId": 122,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Unbreakable.",
+            "speakerFaceId": "3",
+            "sentenceId": 123,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": ".",
+            "speakerFaceId": "1",
+            "sentenceId": 124,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "We have some child lock or something.",
+            "speakerFaceId": "2",
+            "sentenceId": 125,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm-hmm.",
+            "speakerFaceId": "3",
+            "sentenceId": 126,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm-hmm.",
+            "speakerFaceId": "0",
+            "sentenceId": 127,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "And it has to be nice looking, maybe colourful, because nobody has colourful remote control, they're always black, but this one could be dunno, purple or.",
+            "speakerFaceId": "3",
+            "sentenceId": 128,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Yeah.",
+            "speakerFaceId": "2",
+            "sentenceId": 129,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Colourful, mm.",
+            "speakerFaceId": "0",
+            "sentenceId": 130,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Colourful?",
+            "speakerFaceId": "1",
+            "sentenceId": 131,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "That's not practical.",
+            "speakerFaceId": "1",
+            "sentenceId": 132,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Yeah.",
+            "speakerFaceId": "2",
+            "sentenceId": 133,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "No, that's a good idea.",
+            "speakerFaceId": "0",
+            "sentenceId": 134,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "It's always black or.",
+            "speakerFaceId": "2",
+            "sentenceId": 135,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm mm-mm.",
+            "speakerFaceId": "0",
+            "sentenceId": 136,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "No.",
+            "speakerFaceId": "1",
+            "sentenceId": 137,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "But okay, just but it's monochrome it's not like Otherwise you will never find it.",
+            "speakerFaceId": "1",
+            "sentenceId": 138,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Yeah.",
+            "speakerFaceId": "0",
+            "sentenceId": 139,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Yeah.",
+            "speakerFaceId": "2",
+            "sentenceId": 140,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "No, because you think, why not.",
+            "speakerFaceId": "0",
+            "sentenceId": 141,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Yeah.",
+            "speakerFaceId": "2",
+            "sentenceId": 142,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "One colour.",
+            "speakerFaceId": "3",
+            "sentenceId": 143,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Yeah.",
+            "speakerFaceId": "2",
+            "sentenceId": 144,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Even we can change colours, no?",
+            "speakerFaceId": "2",
+            "sentenceId": 145,
+            "question": {
+                "possible": true,
+                "meaningful": true,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [
+                    146,
+                    147
+                ],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false,
+                "meta": {
+                    "answerable": true,
+                    "multispan": false,
+                    "multispeaker": true
+                }
+            }
+        },
+        {
+            "displayText": "The the phones and these things we.",
+            "speakerFaceId": "2",
+            "sentenceId": 146,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "The phones, it could change colours.",
+            "speakerFaceId": "3",
+            "sentenceId": 147,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Cool.",
+            "speakerFaceId": "1",
+            "sentenceId": 148,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm-hmm.",
+            "speakerFaceId": "0",
+            "sentenceId": 149,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "At least for children one colour and.",
+            "speakerFaceId": "2",
+            "sentenceId": 150,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "But without any extremes not of this size, not too large.",
+            "speakerFaceId": "1",
+            "sentenceId": 151,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Yeah.",
+            "speakerFaceId": "3",
+            "sentenceId": 152,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Good.",
+            "speakerFaceId": "3",
+            "sentenceId": 153,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Good idea.",
+            "speakerFaceId": "0",
+            "sentenceId": 154,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "And it should be really small and.",
+            "speakerFaceId": "2",
+            "sentenceId": 155,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Small also?",
+            "speakerFaceId": "0",
+            "sentenceId": 156,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Don't you think No not too much buttons or mm.",
+            "speakerFaceId": "0",
+            "sentenceId": 157,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Not so big.",
+            "speakerFaceId": "2",
+            "sentenceId": 158,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Not too much buttons and.",
+            "speakerFaceId": "2",
+            "sentenceId": 159,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Should it be, these remote controls where they are what they call a universal remote control so you can decide that now it's the remote control for the television, then it's the remote control for the sound system, or for your refrigerator whatever I dunno if it's Or if we should have a targeted remote control.",
+            "speakerFaceId": "3",
+            "sentenceId": 160,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm-hmm.",
+            "speakerFaceId": "0",
+            "sentenceId": 161,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Yeah.",
+            "speakerFaceId": "2",
+            "sentenceId": 162,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "That's Okay.",
+            "speakerFaceId": "0",
+            "sentenceId": 163,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So, I think there's So you you think it's better if small than bigger.",
+            "speakerFaceId": "0",
+            "sentenceId": 164,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So colour, robustness, easy to use, size, matters.",
+            "speakerFaceId": "3",
+            "sentenceId": 165,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Yeah.",
+            "speakerFaceId": "2",
+            "sentenceId": 166,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Colour, size, maybe at least not bigger than this I guess.",
+            "speakerFaceId": "2",
+            "sentenceId": 167,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm.",
+            "speakerFaceId": "3",
+            "sentenceId": 168,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "No, not too small.",
+            "speakerFaceId": "0",
+            "sentenceId": 169,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "At least it should hold in your hand properly.",
+            "speakerFaceId": "2",
+            "sentenceId": 170,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Okay.",
+            "speakerFaceId": "1",
+            "sentenceId": 171,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Yeah.",
+            "speakerFaceId": "3",
+            "sentenceId": 172,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Hmm.",
+            "speakerFaceId": "0",
+            "sentenceId": 173,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "A palm sized.",
+            "speakerFaceId": "1",
+            "sentenceId": 174,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Yeah.",
+            "speakerFaceId": "2",
+            "sentenceId": 175,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm.",
+            "speakerFaceId": "3",
+            "sentenceId": 176,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Just to hold it.",
+            "speakerFaceId": "1",
+            "sentenceId": 177,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Okay.",
+            "speakerFaceId": "0",
+            "sentenceId": 178,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "But what would be different from the others?",
+            "speakerFaceId": "3",
+            "sentenceId": 179,
+            "question": {
+                "possible": true,
+                "meaningful": true,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [
+                    180,
+                    181,
+                    183,
+                    185,
+                    186
+                ],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false,
+                "meta": {
+                    "answerable": true,
+                    "multispan": true,
+                    "multispeaker": true
+                }
+            }
+        },
+        {
+            "displayText": "I dunno if at least the colour would be different.",
+            "speakerFaceId": "3",
+            "sentenceId": 180,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Maybe we can change the colours that at least the frame.",
+            "speakerFaceId": "2",
+            "sentenceId": 181,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm.",
+            "speakerFaceId": "2",
+            "sentenceId": 182,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So then it depends Mm you can easily remove the frame.",
+            "speakerFaceId": "2",
+            "sentenceId": 183,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm.",
+            "speakerFaceId": "0",
+            "sentenceId": 184,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "I think one thing important for instance in this remote control if you remember when people use it they're they never find a good button in the right place.",
+            "speakerFaceId": "3",
+            "sentenceId": 185,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm-hmm.",
+            "speakerFaceId": "0",
+            "sentenceId": 186,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "For some reason they they they click the off button when they want to use the So there's a problem in the design of that kind of remote control somehow, I dunno.",
+            "speakerFaceId": "3",
+            "sentenceId": 187,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Yeah.",
+            "speakerFaceId": "2",
+            "sentenceId": 188,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Yeah.",
+            "speakerFaceId": "2",
+            "sentenceId": 189,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm.",
+            "speakerFaceId": "0",
+            "sentenceId": 190,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So, some kind of idea with cellular phone with a screen that will tell you what no.",
+            "speakerFaceId": "0",
+            "sentenceId": 191,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "No, no screens, it's too complex.",
+            "speakerFaceId": "1",
+            "sentenceId": 192,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Okay.",
+            "speakerFaceId": "0",
+            "sentenceId": 193,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm.",
+            "speakerFaceId": "2",
+            "sentenceId": 194,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Too expensive for twelve Euro?",
+            "speakerFaceId": "3",
+            "sentenceId": 195,
+            "question": {
+                "possible": true,
+                "meaningful": true,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [
+                    196,
+                    197,
+                    200,
+                    203,
+                    204
+                ],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false,
+                "meta": {
+                    "answerable": true,
+                    "multispan": true,
+                    "multispeaker": true
+                }
+            }
+        },
+        {
+            "displayText": "Too expensive.",
+            "speakerFaceId": "2",
+            "sentenceId": 196,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "And maybe not too expensive, it's not my problem, but okay.",
+            "speakerFaceId": "1",
+            "sentenceId": 197,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "And too expensive.",
+            "speakerFaceId": "0",
+            "sentenceId": 198,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Ah.",
+            "speakerFaceId": "3",
+            "sentenceId": 199,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "But no screens on remote controls.",
+            "speakerFaceId": "1",
+            "sentenceId": 200,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm-hmm.",
+            "speakerFaceId": "3",
+            "sentenceId": 201,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm.",
+            "speakerFaceId": "0",
+            "sentenceId": 202,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "I thought it could be only a screen which would change depending on the use or even the user.",
+            "speakerFaceId": "3",
+            "sentenceId": 203,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So I prefer to have the off button at the top right, so I would have my own design of the remote control because it's in fact just a a full touch screen remote control, if you if you like.",
+            "speakerFaceId": "3",
+            "sentenceId": 204,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm-hmm.",
+            "speakerFaceId": "1",
+            "sentenceId": 205,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Yeah.",
+            "speakerFaceId": "2",
+            "sentenceId": 206,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Hmm.",
+            "speakerFaceId": "2",
+            "sentenceId": 207,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "It's it's two types no?",
+            "speakerFaceId": "2",
+            "sentenceId": 208,
+            "question": {
+                "possible": true,
+                "meaningful": true,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [
+                    209,
+                    211,
+                    216
+                ],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false,
+                "meta": {
+                    "answerable": true,
+                    "multispan": true,
+                    "multispeaker": true
+                }
+            }
+        },
+        {
+            "displayText": "I don't know if it makes sense, but for instance, mm.",
+            "speakerFaceId": "3",
+            "sentenceId": 209,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm-mm.",
+            "speakerFaceId": "0",
+            "sentenceId": 210,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "People are right handed or left handed because I am left handed say if you're right handed you use this or so your switch on and off should be on.",
+            "speakerFaceId": "2",
+            "sentenceId": 211,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm-hmm, mm-hmm.",
+            "speakerFaceId": "1",
+            "sentenceId": 212,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm-hmm.",
+            "speakerFaceId": "0",
+            "sentenceId": 213,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm.",
+            "speakerFaceId": "3",
+            "sentenceId": 214,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm mm mm.",
+            "speakerFaceId": "0",
+            "sentenceId": 215,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So adaptable something.",
+            "speakerFaceId": "0",
+            "sentenceId": 216,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Adaptable.",
+            "speakerFaceId": "1",
+            "sentenceId": 217,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Maybe, if it's possible.",
+            "speakerFaceId": "3",
+            "sentenceId": 218,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Alright, good, how many actions do we need to implement in it?",
+            "speakerFaceId": "1",
+            "sentenceId": 219,
+            "question": {
+                "possible": true,
+                "meaningful": true,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [
+                    221,
+                    224,
+                    225,
+                    226
+                ],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false,
+                "meta": {
+                    "answerable": true,
+                    "multispan": true,
+                    "multispeaker": true
+                }
+            }
+        },
+        {
+            "displayText": "Mm.",
+            "speakerFaceId": "2",
+            "sentenceId": 220,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Maybe I think even we can keep two switches and then we can only make one working.",
+            "speakerFaceId": "2",
+            "sentenceId": 221,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "On off?",
+            "speakerFaceId": "1",
+            "sentenceId": 222,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Yeah.",
+            "speakerFaceId": "3",
+            "sentenceId": 223,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Suppose here we can make two switches and if I'm left-hander I use this switch to follow the main operations.",
+            "speakerFaceId": "2",
+            "sentenceId": 224,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "If it's less than three then we can make it a three mental states, what we can just make it controlled by a brain?",
+            "speakerFaceId": "1",
+            "sentenceId": 225,
+            "question": {
+                "possible": true,
+                "meaningful": true,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false,
+                "meta": {
+                    "answerable": false,
+                    "multispan": false,
+                    "multispeaker": false
+                }
+            }
+        },
+        {
+            "displayText": "Two.",
+            "speakerFaceId": "2",
+            "sentenceId": 226,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Three buttons you mean?",
+            "speakerFaceId": "3",
+            "sentenceId": 227,
+            "question": {
+                "possible": true,
+                "meaningful": true,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [
+                    228,
+                    237
+                ],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false,
+                "meta": {
+                    "answerable": true,
+                    "multispan": true,
+                    "multispeaker": false
+                }
+            }
+        },
+        {
+            "displayText": "Three option.",
+            "speakerFaceId": "0",
+            "sentenceId": 228,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Ah.",
+            "speakerFaceId": "3",
+            "sentenceId": 229,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Yeah.",
+            "speakerFaceId": "2",
+            "sentenceId": 230,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Yeah.",
+            "speakerFaceId": "2",
+            "sentenceId": 231,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Um.",
+            "speakerFaceId": "0",
+            "sentenceId": 232,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm-hmm.",
+            "speakerFaceId": "0",
+            "sentenceId": 233,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm-hmm, sure.",
+            "speakerFaceId": "3",
+            "sentenceId": 234,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Maybe if it's more, if there is a software inside that ask you three.",
+            "speakerFaceId": "0",
+            "sentenceId": 235,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm-hmm.",
+            "speakerFaceId": "1",
+            "sentenceId": 236,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "If we want a universal remote control that we like we say before it may need more than three mm three button, three mm possibilities.",
+            "speakerFaceId": "0",
+            "sentenceId": 237,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Sure, sure.",
+            "speakerFaceId": "1",
+            "sentenceId": 238,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "More than three actions that you may want to do at a given time.",
+            "speakerFaceId": "3",
+            "sentenceId": 239,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm.",
+            "speakerFaceId": "2",
+            "sentenceId": 240,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Yeah.",
+            "speakerFaceId": "2",
+            "sentenceId": 241,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "But for standard actions you usually what do you do, you change channels, you adjust volume, and nothing else.",
+            "speakerFaceId": "1",
+            "sentenceId": 242,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "But for instance when you change channels you can just go to the next one or go to channel twenty five.",
+            "speakerFaceId": "3",
+            "sentenceId": 243,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm.",
+            "speakerFaceId": "2",
+            "sentenceId": 244,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Yeah.",
+            "speakerFaceId": "2",
+            "sentenceId": 245,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm.",
+            "speakerFaceId": "0",
+            "sentenceId": 246,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "And that's already more complex to go to channel twenty five.",
+            "speakerFaceId": "3",
+            "sentenceId": 247,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm-hmm.",
+            "speakerFaceId": "1",
+            "sentenceId": 248,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "You do this?",
+            "speakerFaceId": "1",
+            "sentenceId": 249,
+            "question": {
+                "possible": true,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false,
+                "meta": {
+                    "answerable": false,
+                    "multispan": false,
+                    "multispeaker": false
+                }
+            }
+        },
+        {
+            "displayText": "Yeah.",
+            "speakerFaceId": "2",
+            "sentenceId": 250,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "No.",
+            "speakerFaceId": "3",
+            "sentenceId": 251,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "I usually just change channels.",
+            "speakerFaceId": "1",
+            "sentenceId": 252,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Because I'm only using three or four channels but And then back to the one I was before, so there's whichever it was.",
+            "speakerFaceId": "3",
+            "sentenceId": 253,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Yeah.",
+            "speakerFaceId": "2",
+            "sentenceId": 254,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "But they keep generally their slash slash this thing and then the dash dash and then you can only have one bit.",
+            "speakerFaceId": "2",
+            "sentenceId": 255,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Yeah.",
+            "speakerFaceId": "0",
+            "sentenceId": 256,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "I want to go to twenty five, and then to ten, uh-huh mm.",
+            "speakerFaceId": "0",
+            "sentenceId": 257,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Dash.",
+            "speakerFaceId": "2",
+            "sentenceId": 258,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Also that would be cool.",
+            "speakerFaceId": "0",
+            "sentenceId": 259,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Uh-huh.",
+            "speakerFaceId": "1",
+            "sentenceId": 260,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "You can.",
+            "speakerFaceId": "2",
+            "sentenceId": 261,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Go back button is good.",
+            "speakerFaceId": "1",
+            "sentenceId": 262,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Yeah.",
+            "speakerFaceId": "2",
+            "sentenceId": 263,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Yeah.",
+            "speakerFaceId": "3",
+            "sentenceId": 264,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "We had that in other countries.",
+            "speakerFaceId": "3",
+            "sentenceId": 265,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "I once had it.",
+            "speakerFaceId": "1",
+            "sentenceId": 266,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "The previous button is.",
+            "speakerFaceId": "2",
+            "sentenceId": 267,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm.",
+            "speakerFaceId": "0",
+            "sentenceId": 268,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Even the history so you could undo previous of the previous.",
+            "speakerFaceId": "3",
+            "sentenceId": 269,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm-hmm.",
+            "speakerFaceId": "1",
+            "sentenceId": 270,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Okay.",
+            "speakerFaceId": "2",
+            "sentenceId": 271,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "History.",
+            "speakerFaceId": "1",
+            "sentenceId": 272,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Then ah you could also record your sequence of actions, that becomes more complex, but you could look at what the other people have used there or remote controls.",
+            "speakerFaceId": "3",
+            "sentenceId": 273,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Uh.",
+            "speakerFaceId": "2",
+            "sentenceId": 274,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Yeah.",
+            "speakerFaceId": "2",
+            "sentenceId": 275,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Which channels the viewer Marketing.",
+            "speakerFaceId": "2",
+            "sentenceId": 276,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm-mm.",
+            "speakerFaceId": "0",
+            "sentenceId": 277,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Maybe it's a Okay.",
+            "speakerFaceId": "3",
+            "sentenceId": 278,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Okay.",
+            "speakerFaceId": "0",
+            "sentenceId": 279,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So I think we have full of idea.",
+            "speakerFaceId": "0",
+            "sentenceId": 280,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "We're going to meet again in thirty minutes and I want you to mm work on these ideas and try to make the ones, to decide what are the ones important and what are the one that we don't want.",
+            "speakerFaceId": "0",
+            "sentenceId": 281,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "And maybe more in the technical parts what do we want to do.",
+            "speakerFaceId": "0",
+            "sentenceId": 282,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Um.",
+            "speakerFaceId": "0",
+            "sentenceId": 283,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So your personal coach will send you some instruction for this thirty minutes.",
+            "speakerFaceId": "0",
+            "sentenceId": 284,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So what does ME means?",
+            "speakerFaceId": "3",
+            "sentenceId": 285,
+            "question": {
+                "possible": true,
+                "meaningful": true,
+                "questionContext": [],
+                "combinedQuestion": [
+                    285,
+                    286
+                ],
+                "answerSpan": [
+                    288,
+                    291
+                ],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false,
+                "meta": {
+                    "answerable": true,
+                    "multispan": true,
+                    "multispeaker": true
+                }
+            }
+        },
+        {
+            "displayText": "ME the user requirements?",
+            "speakerFaceId": "3",
+            "sentenceId": 286,
+            "question": {
+                "possible": true,
+                "meaningful": true,
+                "questionContext": [],
+                "combinedQuestion": [
+                    285,
+                    286
+                ],
+                "answerSpan": [
+                    288,
+                    291
+                ],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false,
+                "meta": {
+                    "answerable": true,
+                    "multispan": true,
+                    "multispeaker": true
+                }
+            }
+        },
+        {
+            "displayText": "Or that's for us?",
+            "speakerFaceId": "3",
+            "sentenceId": 287,
+            "question": {
+                "possible": true,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false,
+                "meta": {
+                    "answerable": false,
+                    "multispan": false,
+                    "multispeaker": false
+                }
+            }
+        },
+        {
+            "displayText": "Market Expert.",
+            "speakerFaceId": "1",
+            "sentenceId": 288,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm.",
+            "speakerFaceId": "0",
+            "sentenceId": 289,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "That's me.",
+            "speakerFaceId": "3",
+            "sentenceId": 290,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Of course the user requirement specifications, uh-huh.",
+            "speakerFaceId": "3",
+            "sentenceId": 291,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm-hmm.",
+            "speakerFaceId": "0",
+            "sentenceId": 292,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Okay.",
+            "speakerFaceId": "3",
+            "sentenceId": 293,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Mm okay.",
+            "speakerFaceId": "0",
+            "sentenceId": 294,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "I'll think of that.",
+            "speakerFaceId": "3",
+            "sentenceId": 295,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So.",
+            "speakerFaceId": "0",
+            "sentenceId": 296,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "So?",
+            "speakerFaceId": "3",
+            "sentenceId": 297,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "I think that's all.",
+            "speakerFaceId": "0",
+            "sentenceId": 298,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Meeting's over?",
+            "speakerFaceId": "3",
+            "sentenceId": 299,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Great.",
+            "speakerFaceId": "3",
+            "sentenceId": 300,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Yeah.",
+            "speakerFaceId": "0",
+            "sentenceId": 301,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Okay.",
+            "speakerFaceId": "1",
+            "sentenceId": 302,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Thank you.",
+            "speakerFaceId": "2",
+            "sentenceId": 303,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Thank you.",
+            "speakerFaceId": "3",
+            "sentenceId": 304,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "Thank you everybody.",
+            "speakerFaceId": "1",
+            "sentenceId": 305,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        },
+        {
+            "displayText": "See you in thirty minutes.",
+            "speakerFaceId": "0",
+            "sentenceId": 306,
+            "question": {
+                "possible": false,
+                "meaningful": false,
+                "questionContext": [],
+                "combinedQuestion": [],
+                "answerSpan": [],
+                "unanswerableReason": "",
+                "confidentAnswer": true,
+                "externalReview": false
+            }
+        }
+    ]
+}

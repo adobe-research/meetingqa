@@ -1,0 +1,25 @@
+#!/bin/bash
+CUDA_VISIBLE_DEVICES=$1 python run_qa.py \
+  --model_name_or_path facebook/opt-350m \
+  --train_file /home/arprasad/AllData/Dataset/train-small.json \
+  --validation_file /home/arprasad/AllData/Dataset/dev-small.json \
+  --test_file /home/arprasad/AllData/Dataset/test-small.json \
+  --do_train \
+  --do_eval \
+  --do_predict \
+  --version_2_with_negative \
+  --per_device_train_batch_size 24 \
+  --save_total_limit 1 \
+  --load_best_model_at_end True \
+  --evaluation_strategy epoch \
+  --logging_strategy epoch \
+  --save_strategy epoch \
+  --metric_for_best_model eval_f1 \
+  --learning_rate 3e-5 \
+  --warmup_ratio 0.2 \
+  --num_train_epochs 4 \
+  --max_seq_length 384 \
+  --doc_stride 128 \
+  --max_answer_length 300 \
+  --overwrite_output_dir \
+  --output_dir Results/opt-350m-med/

@@ -1,0 +1,30 @@
+#!/bin/bash
+CUDA_VISIBLE_DEVICES=$1 python run_seq2seq_qa.py \
+  --model_name_or_path google/long-t5-tglobal-base \
+  --train_file /home/arprasad/AllData/Dataset/train-med.json \
+  --validation_file /home/arprasad/AllData/Dataset/dev-med.json \
+  --test_file /home/arprasad/AllData/Dataset/test-med.json \
+  --eval_accumulation_steps 1 \
+  --context_column context \
+  --question_column question \
+  --answer_column answers \
+  --overwrite_cache \
+  --do_train \
+  --do_eval \
+  --do_predict \
+  --version_2_with_negative \
+  --per_device_train_batch_size 2 \
+  --save_total_limit 1 \
+  --load_best_model_at_end True \
+  --evaluation_strategy epoch \
+  --logging_strategy epoch \
+  --save_strategy epoch \
+  --metric_for_best_model eval_f1 \
+  --learning_rate 3e-5 \
+  --warmup_ratio 0.2 \
+  --num_train_epochs 15 \
+  --predict_with_generate True \
+  --max_seq_length 1536 \
+  --doc_stride 128 \
+  --max_answer_length 1024 \
+  --output_dir Results/longT5-med/

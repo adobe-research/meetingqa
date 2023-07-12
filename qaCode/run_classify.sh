@@ -1,0 +1,21 @@
+#!/bin/bash
+CUDA_VISIBLE_DEVICES=$1 python run_classification.py \
+  --model_name_or_path roberta-base \
+  --train_file /home/arprasad/AllData/AnswerableDataset/final-AMI-train.json \
+  --validation_file /home/arprasad/AllData/AnswerableDataset/final-AMI-dev.json \
+  --test_file /home/arprasad/AllData/AnswerableDataset/final-AMI-test.json \
+  --do_train \
+  --do_eval \
+  --do_predict \
+  --per_device_train_batch_size 24 \
+  --save_total_limit 1 \
+  --load_best_model_at_end True \
+  --evaluation_strategy epoch \
+  --logging_strategy epoch \
+  --save_strategy epoch \
+  --metric_for_best_model eval_accuracy \
+  --learning_rate 3e-5 \
+  --warmup_ratio 0.2 \
+  --num_train_epochs 12 \
+  --max_seq_length 512 \
+  --output_dir Results/roberta-answerable
