@@ -1,7 +1,7 @@
 # MeetingQA: Extractive Question-Answering on Meeting Transcripts (ACL 2023)
 * Authors: [Archiki Prasad](https://archiki.github.io), [Trung Bui](https://research.adobe.com/person/trung-bui/), [Seunghyun Yoon](https://david-yoon.github.io/), [Hanieh Deilamsalehy](https://research.adobe.com/person/hanieh-deilamsalehy/), [Franck Dernoncourt](https://research.adobe.com/person/franck-dernoncourt/), [Mohit Bansal](https://www.cs.unc.edu/~mbansal/)
 * [Paper](https://aclanthology.org/2023.acl-long.837/) // [Project Page](https://archiki.github.io/meetingqa.html)
-* **Note:** This repository contains code and data (to be added shortly) for our ACL 2023 paper "MeetingQA: Extractive Question-Answering on Meeting Transcripts".
+* **Note:** This repository contains code and data for our ACL 2023 paper "MeetingQA: Extractive Question-Answering on Meeting Transcripts".
 
 <img src="./.assets/Fig1.png" alt="teaser image" width="500"/>
 
