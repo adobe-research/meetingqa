@@ -39,7 +39,6 @@ lcms2=2.12=h3be6417_0
 ld_impl_linux-64=2.38=h1181459_1
 libffi=3.3=he6710b0_2
 libgcc-ng=11.2.0=h1234567_1
-libgomp=11.2.0=h1234567_1
 libiconv=1.16=h7f8727e_2
 libidn2=2.3.2=h7f8727e_0
 libpng=1.6.37=hbc83047_0
