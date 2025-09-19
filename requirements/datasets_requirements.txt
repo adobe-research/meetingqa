@@ -47,7 +47,6 @@ langcodes=3.3.0=pypi_0
 ld_impl_linux-64=2.38=h1181459_1
 libffi=3.3=he6710b0_2
 libgcc-ng=11.2.0=h1234567_0
-libgomp=11.2.0=h1234567_0
 libsodium=1.0.18=h7b6447c_0
 libstdcxx-ng=11.2.0=h1234567_0
 markupsafe=2.1.1=pypi_0
